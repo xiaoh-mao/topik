@@ -1,0 +1,53 @@
+### D:\claude\topik\scratch\ocr\strip\60-II-script-01.png
+### D:\claude\topik\scratch\ocr\strip\60-II-script-02.png
+### D:\claude\topik\scratch\ocr\strip\60-II-script-03.png
+### D:\claude\topik\scratch\ocr\strip\60-II-script-04.png
+174 477 15 46	[ 4 一
+### D:\claude\topik\scratch\ocr\strip\60-II-script-05.png
+### D:\claude\topik\scratch\ocr\strip\60-II-script-06.png
+174 477 15 46	[ 9 一
+91 1468 43 38	10 ，
+### D:\claude\topik\scratch\ocr\strip\60-II-script-07.png
+91 520 50 37	11.
+91 1273 42 38	12 ．
+### D:\claude\topik\scratch\ocr\strip\60-II-script-08.png
+91 628 43 38	13 ．
+92 1548 42 37	14 ．
+### D:\claude\topik\scratch\ocr\strip\60-II-script-09.png
+91 520 43 37	15 ，
+92 1439 42 37	16 ．
+### D:\claude\topik\scratch\ocr\strip\60-II-script-10.png
+91 629 43 37	17 ．
+### D:\claude\topik\scratch\ocr\strip\60-II-script-11.png
+91 519 43 38	19 ，
+90 1521 44 38	20 ，
+### D:\claude\topik\scratch\ocr\strip\60-II-script-12.png
+174 477 15 46	[ 2 〕
+84 1321 41 37	21 ，
+### D:\claude\topik\scratch\ocr\strip\60-II-script-13.png
+### D:\claude\topik\scratch\ocr\strip\60-II-script-14.png
+### D:\claude\topik\scratch\ocr\strip\60-II-script-15.png
+### D:\claude\topik\scratch\ocr\strip\60-II-script-16.png
+84 1486 44 38	29 ，
+### D:\claude\topik\scratch\ocr\strip\60-II-script-17.png
+84 1403 52 38	31.
+84 2003 43 38	32 ·
+### D:\claude\topik\scratch\ocr\strip\60-II-script-18.png
+174 477 15 46	[ 3 ：
+### D:\claude\topik\scratch\ocr\strip\60-II-script-19.png
+### D:\claude\topik\scratch\ocr\strip\60-II-script-20.png
+84 1403 44 38	37 ， 叫 ，
+### D:\claude\topik\scratch\ocr\strip\60-II-script-21.png
+84 1403 44 38	39 ， 叫
+### D:\claude\topik\scratch\ocr\strip\60-II-script-22.png
+174 477 15 46	[ 4 〕
+175 1408 20 21	0
+83 1404 42 37	41 ，
+83 2004 44 37	42 ·
+### D:\claude\topik\scratch\ocr\strip\60-II-script-23.png
+83 1486 45 38	43 ， 叫
+### D:\claude\topik\scratch\ocr\strip\60-II-script-24.png
+163 1999 35 48	叫 只
+### D:\claude\topik\scratch\ocr\strip\60-II-script-25.png
+### D:\claude\topik\scratch\ocr\strip\60-II-script-26.png
+84 1486 44 38	49 ，

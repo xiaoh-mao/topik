@@ -1,0 +1,44 @@
+### D:\claude\topik\scratch\ocr\strip\60-I-script-01.png
+121 591 15 50	[ 1 ～
+27 1307 19 41	1 、
+24 1964 25 41	2 、
+24 2624 27 41	3 ．
+### D:\claude\topik\scratch\ocr\strip\60-I-script-02.png
+24 391 25 38	4 ， ．
+24 1917 27 41	5 ．
+24 2615 27 41	6 ，
+121 1914 40 44	0
+121 2612 15 44	（ 3
+### D:\claude\topik\scratch\ocr\strip\60-I-script-03.png
+121 391 15 50	[ 7 、
+121 1017 15 43	（ 3
+24 1020 27 40	7 ．
+121 1573 15 44	（ 3
+24 1576 27 41	8 ．
+24 2136 27 41	9 ．
+27 2696 47 41	10 ` 0
+### D:\claude\topik\scratch\ocr\strip\60-I-script-04.png
+60 1074 56 42	IL （ 3
+32 1611 46 40	12 ` （ 3 剂 ）
+4 2151 45 43	13 ， （ 4
+### D:\claude\topik\scratch\ocr\strip\60-I-script-05.png
+33 397 35 38	※ [ 15 、
+33 544 44 41	15 ．
+33 1911 44 41	16 ．
+### D:\claude\topik\scratch\ocr\strip\60-I-script-06.png
+121 391 15 50	[ 1 吓
+33 1239 44 40	17 ．
+33 2139 53 41	18
+### D:\claude\topik\scratch\ocr\strip\60-I-script-07.png
+33 432 44 40	19 ．
+### D:\claude\topik\scratch\ocr\strip\60-I-script-08.png
+30 432 44 40	21 ．
+33 1467 35 38	※ [ 22 `
+### D:\claude\topik\scratch\ocr\strip\60-I-script-09.png
+### D:\claude\topik\scratch\ocr\strip\60-I-script-10.png
+121 391 15 50	[ 25 、
+### D:\claude\topik\scratch\ocr\strip\60-I-script-11.png
+121 391 15 50	[ 27 、
+24 1204 56 41	互 早 国
+### D:\claude\topik\scratch\ocr\strip\60-I-script-12.png
+121 391 15 50	[ 29 、

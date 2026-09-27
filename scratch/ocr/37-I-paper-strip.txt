@@ -1,0 +1,107 @@
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-01.png
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-02.png
+93 1226 22 38	2 ， 牵 总
+93 1502 22 37	3 ，
+93 1777 22 34	4 ，
+149 1868 81 37	Use
+93 2052 22 38	5 ， 剂 曙
+149 2143 81 38	Mar
+93 2518 22 38	6 ， 是
+93 2794 22 37	7 ，
+149 2884 81 35	Whi
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-03.png
+121 591 15 50	[ 1 ． ～ 过
+161 1001 47 47	0
+121 1301 40 44	0 召 ）
+27 1305 19 40	1 、
+24 1771 27 40	2 ．
+121 2237 17 44	（ 3 召 ）
+24 2240 27 41	3 ．
+121 2703 17 44	（ 3 召 ）
+24 2706 25 41	4 、
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-04.png
+24 1104 27 41	5 ．
+24 1524 25 40	6 、
+24 2615 27 41	7 ．
+24 2947 27 41	8 ．
+136 200 35 41	T 。
+121 1520 17 44	（ 3 召 ）
+121 2612 17 44	（ 3 召 ）
+121 2944 17 44	（ 3 召 ）
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-05.png
+156 380 17 44	（ 3 和
+59 380 26 42	9 ．
+52 749 56 42	10 0 召 ）
+136 1120 17 51	[ 1 吓
+164 1623 47 47	0
+24 1835 56 41	ll. （ 3 召 ）
+14 2201 45 41	12 ` （ 3 召 ）
+5 2570 18 39	1 & （ 4 和
+0 2938 50 43	且 （ 3 和
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-06.png
+33 397 35 38	※ [ 15 、
+27 519 47 41	15 ` 'D
+27 1758 47 41	16 ` 'D
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-07.png
+121 391 15 50	[ 17 、
+27 1198 47 41	17 ` 叫
+27 1727 19 41	1 & 0 叫
+27 2259 47 40	19 ` 0 舄
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-08.png
+24 923 44 41	21 ` 0 里
+24 2631 25 41	2 生
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-09.png
+6 896 50 42	26 `
+22 1657 59 40	互 导 因
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-10.png
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-11.png
+121 591 15 50	[ 3 吓
+30 1261 44 40	31 ．
+30 1718 47 40	32 ．
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-12.png
+24 2653 50 41	37 ， （ 3 召 ）
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-13.png
+24 391 59 41	謡 （ 3 召 ）
+24 935 50 41	39 ` 0 召 ）
+202 2378 25 25	0
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-14.png
+30 397 56 41	41.
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-15.png
+121 391 15 50	[ 43 、
+24 510 47 41	43 ， （ 3 召 ）
+24 2303 50 40	45 ` （ 3 召 ）
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-16.png
+24 510 50 41	46 ` （ 3 召 ）
+24 1408 50 40	47 ` （ 3 召 ）
+24 2303 22 37	4 & 0 召 ）
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-17.png
+121 391 15 50	[ 49 、
+24 1026 50 41	49 、 0 列
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-18.png
+121 391 15 50	[ 51 、
+24 1026 59 41	51, 0 列
+24 1495 47 41	52 ` 早
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-19.png
+24 1026 47 41	田 、 0 列
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-20.png
+24 1117 59 41	五 0 蝴
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-21.png
+33 397 35 38	※ [ 57 、
+24 510 50 41	57 ` （ 3 召 ）
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-22.png
+121 391 15 50	[ 59 、
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-23.png
+121 391 15 50	[ 61 、
+24 1117 44 41	61 ` 0 蝴
+24 1583 47 41	62 ，
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-24.png
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-25.png
+121 1111 47 50	0 蝴
+121 1689 47 50	0 司
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-26.png
+121 391 15 50	[ 67 、
+24 1117 50 41	67 ` 0 蝴
+### D:\claude\topik\scratch\ocr\strip\37-I-paper-27.png
+121 391 15 50	[ 69 、
+24 1117 59 41	丑 0 蝴
+24 1583 56 41	70 。 〕 詈

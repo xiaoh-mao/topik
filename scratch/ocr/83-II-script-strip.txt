@@ -1,0 +1,168 @@
+### D:\claude\topik\scratch\ocr\strip\83-II-script-01.png
+164 744 36 49	叫 丿
+164 921 36 49	叫 丿
+### D:\claude\topik\scratch\ocr\strip\83-II-script-02.png
+63 258 94 13	TestOtPrOf•cien
+105 530 37 49	叫 丿
+### D:\claude\topik\scratch\ocr\strip\83-II-script-03.png
+31 549 22 39	3 · 丿
+### D:\claude\topik\scratch\ocr\strip\83-II-script-04.png
+31 1539 23 39	5 ·
+136 244 25 11	Test 0 《 Proficien
+121 387 15 48	[ 4 、
+164 637 36 49	叫 丿
+164 813 36 49	叫 丿
+162 1542 27 19	0 丿
+164 1622 36 49	叫 丿
+121 1949 46 47	2 彐
+164 2432 36 49	叫 丿
+164 2608 36 49	叫 丿
+### D:\claude\topik\scratch\ocr\strip\83-II-script-05.png
+31 1330 23 39	8 ·
+164 427 36 49	叫 丿
+164 604 36 49	叫 丿
+164 1413 36 49	叫 丿
+### D:\claude\topik\scratch\ocr\strip\83-II-script-06.png
+33 1451 45 39	10 ·
+136 244 25 11	Test 0 《 Proficien
+121 387 15 48	[ 9 、
+164 637 36 49	叫 丿
+164 813 36 49	叫 丿
+162 1454 27 19	0 丿
+164 1534 36 49	叫 丿
+164 1711 36 49	叫 丿
+### D:\claude\topik\scratch\ocr\strip\83-II-script-07.png
+33 432 42 39	11 ·
+33 1241 44 39	12 ·
+164 427 36 49	叫 丿
+164 604 36 49	叫 丿
+164 1236 36 49	叫 丿
+164 1502 36 49	叫 丿
+### D:\claude\topik\scratch\ocr\strip\83-II-script-08.png
+33 1535 45 39	14 ·
+136 244 25 11	Test 0 《 Proficien
+121 387 15 48	[ 13 、
+164 544 36 49	叫 丿
+164 721 36 49	叫 丿
+164 1530 36 49	叫 丿
+### D:\claude\topik\scratch\ocr\strip\83-II-script-09.png
+33 432 45 39	15 ·
+33 1418 45 39	16 ·
+164 1502 36 49	叫 丿
+121 2005 46 47	2 叫
+### D:\claude\topik\scratch\ocr\strip\83-II-script-10.png
+33 642 45 40	17 ·
+33 1539 45 39	18 ·
+136 244 25 11	Test 0 《 Proficien
+121 387 15 48	[ 17 、
+164 725 36 49	叫 丿
+162 1542 27 19	0 丿
+204 1889 20 20	0
+### D:\claude\topik\scratch\ocr\strip\83-II-script-11.png
+31 1442 47 39	20 ·
+164 439 36 49	叫 丿
+164 616 36 49	叫 丿
+164 1437 36 49	叫 丿
+### D:\claude\topik\scratch\ocr\strip\83-II-script-12.png
+136 244 25 11	Test 0 《 Proficien
+121 387 15 48	[ 21 、
+164 544 36 49	叫 丿
+164 986 36 49	叫 丿
+25 1292 44 39	21 ·
+25 1936 46 39	22 ·
+132 1960 27 18	芑 1 一
+### D:\claude\topik\scratch\ocr\strip\83-II-script-13.png
+121 387 15 48	[ 23 、
+164 721 36 49	叫 丿
+164 1075 36 49	叫 丿
+25 1292 46 39	23 · 布
+25 1936 47 39	24 ·
+132 1960 27 18	芑 1 一
+### D:\claude\topik\scratch\ocr\strip\83-II-script-14.png
+136 244 25 11	Test 0 《 Proficien
+121 387 15 48	[ 25 、
+164 544 36 49	叫 丿
+25 1381 47 39	25 ·
+25 2024 47 39	26 ·
+128 2021 29 15	匚
+180 2019 21 21	0
+### D:\claude\topik\scratch\ocr\strip\83-II-script-15.png
+121 387 15 48	[ 27 、
+164 721 36 49	叫 丿
+164 1075 36 49	叫 丿
+25 1381 47 40	27 ·
+25 2024 47 39	28 ·
+128 2021 29 15	匚
+180 2019 21 21	0
+### D:\claude\topik\scratch\ocr\strip\83-II-script-16.png
+136 244 25 11	Test 0 《 Proficien
+121 387 15 48	[ 29 、
+164 544 36 49	叫 丿
+164 986 36 49	叫 丿
+25 1381 47 39	29 · 布
+25 2024 47 39	30 ·
+132 2048 27 18	芑 1 一
+### D:\claude\topik\scratch\ocr\strip\83-II-script-17.png
+121 387 15 48	[ 31 、
+164 810 36 49	叫 丿
+164 1163 36 49	叫 丿
+25 1381 44 39	31 ·
+25 2024 46 39	32 ·
+### D:\claude\topik\scratch\ocr\strip\83-II-script-18.png
+25 1381 46 39	33 ·
+136 244 25 11	Test 0 《 Proficien
+121 387 15 48	[ 33 、
+164 544 36 49	叫 丿
+129 1379 26 17	口 0 （
+128 2021 29 15	匚
+180 2019 21 21	0
+### D:\claude\topik\scratch\ocr\strip\83-II-script-19.png
+123 387 15 48	[ 35 、
+25 1381 47 39	35 · 布
+25 2024 47 39	36 ·
+132 2048 27 18	芑 1 一
+### D:\claude\topik\scratch\ocr\strip\83-II-script-20.png
+136 244 25 11	Test 0 《 Proficien
+121 387 15 48	[ 37 、
+164 721 36 49	叫 丿
+25 1381 47 40	37 · 叫
+25 2024 47 39	38 ·
+132 2048 27 18	芑 1 一
+121 2231 6 30	（ 2 ）
+### D:\claude\topik\scratch\ocr\strip\83-II-script-21.png
+121 387 15 48	[ 39 、
+164 544 36 49	叫 丿
+25 1469 47 39	39 · 叫 翊
+24 2113 48 39	40 ·
+132 2137 27 18	芑 1 一
+### D:\claude\topik\scratch\ocr\strip\83-II-script-22.png
+136 244 25 11	Test 0 《 Proficien
+121 387 15 48	[ 41 、
+164 544 36 49	叫 丿
+24 1469 45 39	41 ·
+24 2113 47 39	42 ·
+128 2110 29 15	匚
+180 2108 21 21	0
+### D:\claude\topik\scratch\ocr\strip\83-II-script-23.png
+172 375 17 49	[ 43
+34 1453 47 41	43 ．
+10 2076 48 40	44 · 智 丿 0
+### D:\claude\topik\scratch\ocr\strip\83-II-script-24.png
+136 244 25 11	Test 0 《 Proficien
+121 387 15 48	[ 45 、
+164 544 36 49	叫 丿
+24 1469 48 39	45 ·
+132 1493 27 18	芑 1 一
+24 2113 48 39	46 · 叫
+### D:\claude\topik\scratch\ocr\strip\83-II-script-25.png
+121 387 15 48	[ 47 、
+164 544 36 49	叫 丿
+132 1493 27 18	芑 1 一
+24 1469 48 40	47 ·
+24 2113 48 39	48 ·
+### D:\claude\topik\scratch\ocr\strip\83-II-script-26.png
+136 244 25 11	Test 0 《 Proficien
+121 387 15 48	[ 49 、
+132 1581 27 18	芑 1 一
+24 1557 48 39	49 ·
+25 2201 47 39	50 ·

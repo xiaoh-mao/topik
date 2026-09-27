@@ -1,0 +1,106 @@
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-01.png
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-02.png
+45 900 13 35	1
+99 991 43 37	以 》 no
+42 1175 22 35	2 ． 宁 则
+99 1266 115 37	Write
+42 1722 22 38	4 ， 厁 闪
+99 1816 78 34	Use tl
+42 1997 22 38	5 ， 0 名
+99 2091 109 34	Mark
+42 2460 22 37	6 ， 是
+99 2554 103 40	Keep ，
+42 2735 22 37	7 ， 剂 是 叫
+99 2825 118 38	'}Vhen
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-03.png
+131 523 19 51	[ 1 、 2 ]
+184 638 23 22	0
+142 664 22 19	0 工 《 以 卜
+81 1480 18 51	[ 3 、 4 ]
+77 1595 44 47	可 丿 1
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-04.png
+70 341 16 50	[ 5 ～ 8 ]
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-05.png
+2 1860 34 37	0
+70 341 16 50	[ 9 ～ 12 、
+70 1585 44 47	0 蚪
+211 2057 19 34	6
+211 2141 19 34	5
+208 2222 22 35	4
+211 2307 19 34	3
+211 2391 19 31	2
+214 2475 10 32	1
+70 2960 44 50	年 14
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-06.png
+5 1453 22 38	2 ．
+114 728 35 50	叫 EI-R
+70 2213 44 50	0 丿 后 ．
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-07.png
+2 1306 25 38	4 ．
+2 2113 25 40	5 ．
+70 341 16 50	[ 13 ～ 1 {
+111 2107 78 50	00
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-08.png
+70 341 16 50	[ 16 ～ 1 {
+2 591 25 40	6 ．
+2 1663 25 37	7 ．
+111 1841 25 31	7 卜 訾
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-09.png
+2 381 25 41	8 ，
+158 378 9 25	《 吓 二 0
+70 878 44 47	(i) 7 旧
+70 966 35 50	0 〕 丿
+0 1507 17 37	下 [ 19 ～ 20
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-10.png
+0 347 17 37	下 [ 21 ～
+114 675 44 41	10 世 夕
+2 1063 15 40	1
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-11.png
+70 341 16 50	[ 圈 ～ 2
+161 678 22 31	丿 0
+70 2432 44 47	0 叫
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-12.png
+142 359 44 16	～ 艺
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-13.png
+70 341 16 50	[ ～ 3
+114 947 22 22	0 0 》 丿
+67 1088 47 47	0 畴 叫
+70 2335 44 47	2 7
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-14.png
+67 878 47 47	(i) 卫 早
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-15.png
+0 497 36 41	2
+70 341 16 50	[ 32 ～ 3
+114 1925 22 25	0
+111 2103 44 32	彐 柰
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-16.png
+111 466 38 47	图 ． 0
+114 563 22 28	7 卜 只 _i
+77 1238 25 34	4 五 。
+70 2332 44 47	2 。 1 里
+70 2419 44 47	0 叫 呈
+70 2507 44 47	0 。 1 圈
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-17.png
+70 2479 44 46	0 習 叫
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-18.png
+161 378 38 47	剽 E
+158 466 41 47	早 7
+70 1231 44 47	0 亓
+70 1588 16 50	[ 一 4
+67 2841 47 47	tD 0
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-19.png
+114 1244 22 25	0 迎 0
+114 2550 69 47	00 〕 Li
+139 2697 47 50	0
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-20.png
+70 341 16 50	[ 42 ～
+151 1429 79 41	the
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-21.png
+70 341 16 50	[ 啊 ～ 4
+114 760 78 40	0F0 ， 善
+139 1288 16 47	卜 ， 7
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-22.png
+111 763 25 22	0 0
+70 2244 44 47	2 司 利
+70 2419 44 47	0 是 一 厂
+### D:\claude\topik\scratch\ocr\strip\41-II-paper2-23.png

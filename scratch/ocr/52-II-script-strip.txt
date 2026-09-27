@@ -1,0 +1,73 @@
+### D:\claude\topik\scratch\ocr\strip\52-II-script-01.png
+### D:\claude\topik\scratch\ocr\strip\52-II-script-02.png
+30 501 27 40	2 ．
+### D:\claude\topik\scratch\ocr\strip\52-II-script-03.png
+30 432 27 40	3 ．
+### D:\claude\topik\scratch\ocr\strip\52-II-script-04.png
+121 388 17 50	[ 4
+30 551 27 40	4 ．
+30 1448 27 41	5 ．
+30 2346 27 41	6 ．
+### D:\claude\topik\scratch\ocr\strip\52-II-script-05.png
+30 432 27 40	7 ．
+30 1333 27 40	8 ．
+### D:\claude\topik\scratch\ocr\strip\52-II-script-06.png
+30 641 27 41	9 ．
+33 1452 53 40	10
+### D:\claude\topik\scratch\ocr\strip\52-II-script-07.png
+33 1242 44 41	12 ．
+### D:\claude\topik\scratch\ocr\strip\52-II-script-08.png
+33 394 35 38	※ [ 13 、
+33 551 44 40	13 ． 叫 丿
+### D:\claude\topik\scratch\ocr\strip\52-II-script-09.png
+33 432 47 40	15 ．
+33 1514 47 41	16 ．
+### D:\claude\topik\scratch\ocr\strip\52-II-script-10.png
+33 394 35 38	※ [ 17 、
+33 551 47 40	17 ．
+33 1714 47 41	18 ．
+### D:\claude\topik\scratch\ocr\strip\52-II-script-11.png
+33 432 47 40	19 ．
+### D:\claude\topik\scratch\ocr\strip\52-II-script-12.png
+121 388 15 50	[ 21 、
+127 2027 2 3	． 0 ， 0
+24 2027 47 41	22 `
+### D:\claude\topik\scratch\ocr\strip\52-II-script-13.png
+24 1937 47 40	24 `
+### D:\claude\topik\scratch\ocr\strip\52-II-script-14.png
+127 2293 2 3	． 0 ， 0
+### D:\claude\topik\scratch\ocr\strip\52-II-script-15.png
+24 1383 50 40	27 `
+127 2027 2 3	． 0 ， 0
+### D:\claude\topik\scratch\ocr\strip\52-II-script-16.png
+127 2293 2 3	． 0 ， 0
+### D:\claude\topik\scratch\ocr\strip\52-II-script-17.png
+121 388 15 50	[ 31 、
+24 2202 47 41	32 `
+### D:\claude\topik\scratch\ocr\strip\52-II-script-18.png
+24 2202 47 41	34 `
+### D:\claude\topik\scratch\ocr\strip\52-II-script-19.png
+### D:\claude\topik\scratch\ocr\strip\52-II-script-20.png
+121 388 15 50	[ 37 、
+24 1558 50 41	37 ， 叫 牢
+### D:\claude\topik\scratch\ocr\strip\52-II-script-21.png
+121 388 15 50	[ 39 、
+24 1558 50 41	39 ， 。 〕
+24 2202 50 41	40 ．
+### D:\claude\topik\scratch\ocr\strip\52-II-script-22.png
+121 388 17 50	[ 41 、
+124 1652 22 25	0 〕
+127 2293 2 3	． 0 ， 0
+24 2293 47 38	42 、
+### D:\claude\topik\scratch\ocr\strip\52-II-script-23.png
+121 388 15 50	[ 43 、
+### D:\claude\topik\scratch\ocr\strip\52-II-script-24.png
+24 1649 50 40	45 ． 乊
+24 2293 50 41	46 、 叫 牢
+### D:\claude\topik\scratch\ocr\strip\52-II-script-25.png
+121 388 17 50	[ 47 、
+127 1649 2 3	． 0 ， 0
+24 1649 50 40	47 `
+24 2293 50 41	48 、
+### D:\claude\topik\scratch\ocr\strip\52-II-script-26.png
+19 1679 49 41	49 、

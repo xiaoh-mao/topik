@@ -1,0 +1,105 @@
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-01.png
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-02.png
+45 900 13 35	1
+99 991 43 37	以 》 no
+42 1175 22 35	2 ． 宁 则
+99 1266 115 37	Write
+42 1722 22 38	4 ， 厁 闪
+99 1816 78 34	Use tl
+42 1997 22 38	5 ， 0 名
+99 2091 109 34	Mark
+42 2460 22 37	6 ， 是
+99 2554 103 40	Keep ，
+42 2735 22 37	7 ， 剂 是 叫
+99 2825 118 38	'}Vhen
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-03.png
+70 541 16 50	[ 1 ～ 4 ]
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-04.png
+70 341 16 50	[ 5 ～ 6 ]
+70 1944 19 47	[ 7 ～ 10 《
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-05.png
+67 806 47 47	fD
+70 1122 16 50	[ 11 一 羊
+111 1428 25 32	7 卜 “
+67 2660 47 47	0 畔 叫
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-06.png
+8 113 22 18	0
+133 163 19 15	0
+70 341 16 50	[ 15 ～ 1 《
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-07.png
+70 341 16 50	[ 17 ～ 2
+111 928 47 47	0 甘
+0 1144 30 41	应 (D 叫 为
+0 1672 20 41	8 砻 叫
+70 1757 44 46	2
+0 2200 20 41	9 (D 叫
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-08.png
+70 1481 16 51	[ 22 、 2
+0 1603 20 41	2 ． 圓
+70 1863 44 50	0 对 川
+0 2132 20 40	3
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-09.png
+70 341 16 50	[ 药 ～ 之
+74 453 34 47	叫 7 }
+70 1385 44 46	0 《 7
+70 1472 44 50	0 、 70
+70 1832 16 46	[ 27 ～ 之
+70 1944 44 44	导 丿 、 屋
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-10.png
+0 159 22 59	） T@PII
+21 355 18 50	[ 四 、 誣
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-11.png
+70 541 16 50	[ 31 ～
+70 1372 44 47	0 7 》 香
+108 1682 25 40	8 厁 蚓
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-12.png
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-13.png
+70 1510 16 50	[ 40 ～ 4 ：
+70 2447 44 47	2 叫 -
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-14.png
+5 347 18 37	1 ，
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-15.png
+117 675 28 22	0 ． 匚
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-16.png
+114 2469 22 28	丿 ， 0
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-17.png
+70 341 16 50	[ 49 ～
+114 760 41 46	旮 目 匚
+74 1444 21 25	0 〕
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-18.png
+70 341 16 50	[ 51 ～ 5 ：
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-19.png
+0 1063 20 40	3 ． 0
+67 1172 47 47	fD 唐 苦
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-20.png
+0 1063 20 40	5 ． 0
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-21.png
+70 341 16 50	[ 57 ～
+67 994 47 50	(D （ 砌
+111 1478 44 44	0 -
+70 1978 44 50	囹 （ 中
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-22.png
+50 155 147 46	T@PII
+40 349 18 50	[ 59 ～
+59 1345 47 48	(i) 0
+71 1898 47 48	0 卫 7 ]
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-23.png
+70 341 16 50	[ 61 ～ 6
+114 847 38 47	利 亍 7
+2 1063 28 40	L 0
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-24.png
+70 341 160 50	[63&6
+145 1125 22 22	0 二
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-25.png
+114 669 38 47	烈 子 丿
+0 1063 20 40	5 ． 0
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-26.png
+70 341 16 50	[ 67 ～
+0 1063 20 40	7 ． 0
+70 1725 44 50	0
+### D:\claude\topik\scratch\ocr\strip\41-I-paper-27.png
+70 341 16 50	[ 69 ～ 7 《
+0 1063 20 40	9 ． 0
+70 1725 44 50	0 。 国
+70 1813 35 50	0 〕 叫 叫
+70 1900 44 50	年 。 国

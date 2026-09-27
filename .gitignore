@@ -1,0 +1,12 @@
+# 运行时生成：Edge 独立配置、做题记录和进度（调试实例的在 scratch/testdata）
+/.window/
+/data/
+scratch/testdata/
+# 官网原样的附件：scratch/download.py 下到这里，organize.py 整理进 papers/
+scratch/raw/
+# 原版 PDF：做题只用页面图和录音，PDF 只有生成数据的脚本读；要用就 links.py -> download.py -> organize.py 再下
+papers/**/*.pdf
+__pycache__/
+# cues.py --check 每次现写的临时清单（里面是本机绝对路径）
+scratch/sil/*.lst
+*.bak

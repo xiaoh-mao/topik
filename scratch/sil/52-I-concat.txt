@@ -1,0 +1,531 @@
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+Input #0, concat, from 'D:\claude\topik\scratch\sil\52-I-concat.lst':
+  Duration: N/A, start: 0.000000, bitrate: 320 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 320 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf62.3.100
+  Stream #0:0: Audio: pcm_s16le, 44100 Hz, stereo, s16, 1411 kb/s
+    Metadata:
+      encoder         : Lavc62.11.100 pcm_s16le
+[silencedetect @ 0000022d36a4df00] silence_start: 101.53161
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 4578048 >= 4575406
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 4578048 >= 4576558
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 4578048 >= 4577710
+[silencedetect @ 0000022d36a4df00] silence_end: 103.913515 | silence_duration: 2.381905
+[silencedetect @ 0000022d36a4df00] silence_start: 153.441429
+[silencedetect @ 0000022d36a4df00] silence_end: 158.673787 | silence_duration: 5.232358
+[silencedetect @ 0000022d36a4df00] silence_start: 162.89127
+[silencedetect @ 0000022d36a4df00] silence_end: 164.590091 | silence_duration: 1.698821
+[silencedetect @ 0000022d36a4df00] silence_start: 172.135261
+[silencedetect @ 0000022d36a4df00] silence_end: 174.374989 | silence_duration: 2.239728
+[silencedetect @ 0000022d36a4df00] silence_start: 176.068821
+[silencedetect @ 0000022d36a4df00] silence_end: 178.07576 | silence_duration: 2.006939
+[silencedetect @ 0000022d36a4df00] silence_start: 185.463764
+[silencedetect @ 0000022d36a4df00] silence_end: 188.806281 | silence_duration: 3.342517
+[silencedetect @ 0000022d36a4df00] silence_start: 189.663991
+[silencedetect @ 0000022d36a4df00] silence_end: 191.811859 | silence_duration: 2.147868
+[silencedetect @ 0000022d36a4df00] silence_start: 193.000703
+[silencedetect @ 0000022d36a4df00] silence_end: 196.234989 | silence_duration: 3.234286
+[silencedetect @ 0000022d36a4df00] silence_start: 197.426327
+[silencedetect @ 0000022d36a4df00] silence_end: 200.640907 | silence_duration: 3.21458
+[silencedetect @ 0000022d36a4df00] silence_start: 202.904694
+[silencedetect @ 0000022d36a4df00] silence_end: 206.158367 | silence_duration: 3.253673
+[silencedetect @ 0000022d36a4df00] silence_start: 206.849138
+[silencedetect @ 0000022d36a4df00] silence_end: 208.764218 | silence_duration: 1.915079
+[silencedetect @ 0000022d36a4df00] silence_start: 210.524785
+[silencedetect @ 0000022d36a4df00] silence_end: 214.026463 | silence_duration: 3.501678
+[silencedetect @ 0000022d36a4df00] silence_start: 215.787007
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 10601518 >= 10597631
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 10601518 >= 10598783
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 10601518 >= 10599935
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 10601518 >= 10601087
+[silencedetect @ 0000022d36a4df00] silence_end: 240.697188 | silence_duration: 24.910181
+[silencedetect @ 0000022d36a4df00] silence_start: 241.537755
+[silencedetect @ 0000022d36a4df00] silence_end: 243.64898 | silence_duration: 2.111224
+[silencedetect @ 0000022d36a4df00] silence_start: 245.701293
+[silencedetect @ 0000022d36a4df00] silence_end: 248.924739 | silence_duration: 3.223447
+[silencedetect @ 0000022d36a4df00] silence_start: 250.977098
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 12147071 >= 12147032
+[silencedetect @ 0000022d36a4df00] silence_end: 275.811451 | silence_duration: 24.834354
+[silencedetect @ 0000022d36a4df00] silence_start: 276.789796
+[silencedetect @ 0000022d36a4df00] silence_end: 278.644195 | silence_duration: 1.854399
+[silencedetect @ 0000022d36a4df00] silence_start: 281.388662
+[silencedetect @ 0000022d36a4df00] silence_end: 285.072449 | silence_duration: 3.683787
+[silencedetect @ 0000022d36a4df00] silence_start: 287.817098
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 13787480 >= 13787362
+[silencedetect @ 0000022d36a4df00] silence_end: 313.108549 | silence_duration: 25.291451
+[silencedetect @ 0000022d36a4df00] silence_start: 313.881973
+[silencedetect @ 0000022d36a4df00] silence_end: 315.761882 | silence_duration: 1.879909
+[silencedetect @ 0000022d36a4df00] silence_start: 317.676213
+[silencedetect @ 0000022d36a4df00] silence_end: 320.870794 | silence_duration: 3.19458
+[silencedetect @ 0000022d36a4df00] silence_start: 322.785261
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 15317218 >= 15317196
+[silencedetect @ 0000022d36a4df00] silence_end: 347.623401 | silence_duration: 24.838141
+[silencedetect @ 0000022d36a4df00] silence_start: 349.33127
+[silencedetect @ 0000022d36a4df00] silence_end: 351.322381 | silence_duration: 1.991111
+[silencedetect @ 0000022d36a4df00] silence_start: 357.957098
+[silencedetect @ 0000022d36a4df00] silence_end: 361.012358 | silence_duration: 3.055261
+[silencedetect @ 0000022d36a4df00] silence_start: 361.870091
+[silencedetect @ 0000022d36a4df00] silence_end: 364.004218 | silence_duration: 2.134127
+[silencedetect @ 0000022d36a4df00] silence_start: 365.889932
+[silencedetect @ 0000022d36a4df00] silence_end: 369.132154 | silence_duration: 3.242222
+[silencedetect @ 0000022d36a4df00] silence_start: 371.017891
+[silencedetect @ 0000022d36a4df00] silence_end: 374.326236 | silence_duration: 3.308345
+[silencedetect @ 0000022d36a4df00] silence_start: 376.568345
+[silencedetect @ 0000022d36a4df00] silence_end: 379.830998 | silence_duration: 3.262653
+[silencedetect @ 0000022d36a4df00] silence_start: 380.585533
+[silencedetect @ 0000022d36a4df00] silence_end: 382.589048 | silence_duration: 2.003515
+[silencedetect @ 0000022d36a4df00] silence_start: 384.326349
+[silencedetect @ 0000022d36a4df00] silence_end: 387.535306 | silence_duration: 3.208957
+[silencedetect @ 0000022d36a4df00] silence_start: 389.272404
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 18264012 >= 18262771
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 18264012 >= 18263923
+[silencedetect @ 0000022d36a4df00] silence_end: 414.466961 | silence_duration: 25.194558
+[silencedetect @ 0000022d36a4df00] silence_start: 415.31873
+[silencedetect @ 0000022d36a4df00] silence_end: 417.116009 | silence_duration: 1.797279
+[silencedetect @ 0000022d36a4df00] silence_start: 421.098753
+[silencedetect @ 0000022d36a4df00] silence_end: 424.326644 | silence_duration: 3.227891
+[silencedetect @ 0000022d36a4df00] silence_start: 428.309456
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 19965427 >= 19965256
+[silencedetect @ 0000022d36a4df00] silence_end: 453.022109 | silence_duration: 24.712653
+[silencedetect @ 0000022d36a4df00] silence_start: 454.713583
+[silencedetect @ 0000022d36a4df00] silence_end: 456.699274 | silence_duration: 1.985692
+[silencedetect @ 0000022d36a4df00] silence_start: 464.280726
+[silencedetect @ 0000022d36a4df00] silence_end: 467.390113 | silence_duration: 3.109388
+[silencedetect @ 0000022d36a4df00] silence_start: 468.247664
+[silencedetect @ 0000022d36a4df00] silence_end: 470.445351 | silence_duration: 2.197687
+[silencedetect @ 0000022d36a4df00] silence_start: 474.188254
+[silencedetect @ 0000022d36a4df00] silence_end: 476.290907 | silence_duration: 2.102653
+[silencedetect @ 0000022d36a4df00] silence_start: 477.632449
+[silencedetect @ 0000022d36a4df00] silence_end: 480.848662 | silence_duration: 3.216213
+[silencedetect @ 0000022d36a4df00] silence_start: 482.346259
+[silencedetect @ 0000022d36a4df00] silence_end: 485.456485 | silence_duration: 3.110227
+[silencedetect @ 0000022d36a4df00] silence_start: 489.194354
+[silencedetect @ 0000022d36a4df00] silence_end: 491.302132 | silence_duration: 2.107778
+[silencedetect @ 0000022d36a4df00] silence_start: 492.643651
+[silencedetect @ 0000022d36a4df00] silence_end: 495.869433 | silence_duration: 3.225782
+[silencedetect @ 0000022d36a4df00] silence_start: 498.345102
+[silencedetect @ 0000022d36a4df00] silence_end: 501.461587 | silence_duration: 3.116485
+[silencedetect @ 0000022d36a4df00] silence_start: 502.265986
+[silencedetect @ 0000022d36a4df00] silence_end: 503.989433 | silence_duration: 1.723447
+[silencedetect @ 0000022d36a4df00] silence_start: 506.678685
+[silencedetect @ 0000022d36a4df00] silence_end: 509.136054 | silence_duration: 2.45737
+[silencedetect @ 0000022d36a4df00] silence_start: 511.149841
+[silencedetect @ 0000022d36a4df00] silence_end: 514.326735 | silence_duration: 3.176893
+[silencedetect @ 0000022d36a4df00] silence_start: 515.825964
+[silencedetect @ 0000022d36a4df00] silence_end: 518.971134 | silence_duration: 3.14517
+[silencedetect @ 0000022d36a4df00] silence_start: 521.660499
+[silencedetect @ 0000022d36a4df00] silence_end: 524.118617 | silence_duration: 2.458118
+[silencedetect @ 0000022d36a4df00] silence_start: 526.131565
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 24286408 >= 24283987
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 24286408 >= 24285139
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 24286408 >= 24286291
+[silencedetect @ 0000022d36a4df00] silence_end: 550.971882 | silence_duration: 24.840317
+[silencedetect @ 0000022d36a4df00] silence_start: 551.66907
+[silencedetect @ 0000022d36a4df00] silence_end: 553.343401 | silence_duration: 1.674331
+[silencedetect @ 0000022d36a4df00] silence_start: 555.360499
+[silencedetect @ 0000022d36a4df00] silence_end: 557.922313 | silence_duration: 2.561814
+[silencedetect @ 0000022d36a4df00] silence_start: 560.990658
+[silencedetect @ 0000022d36a4df00] silence_end: 564.360295 | silence_duration: 3.369637
+[silencedetect @ 0000022d36a4df00] silence_start: 565.857914
+[silencedetect @ 0000022d36a4df00] silence_end: 568.982517 | silence_duration: 3.124603
+[silencedetect @ 0000022d36a4df00] silence_start: 571.007007
+[silencedetect @ 0000022d36a4df00] silence_end: 573.562268 | silence_duration: 2.555261
+[silencedetect @ 0000022d36a4df00] silence_start: 576.629819
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 26510803 >= 26510181
+[silencedetect @ 0000022d36a4df00] silence_end: 601.490544 | silence_duration: 24.860726
+[silencedetect @ 0000022d36a4df00] silence_start: 602.116168
+[silencedetect @ 0000022d36a4df00] silence_end: 603.922132 | silence_duration: 1.805964
+[silencedetect @ 0000022d36a4df00] silence_start: 608.162517
+[silencedetect @ 0000022d36a4df00] silence_end: 610.47161 | silence_duration: 2.309093
+[silencedetect @ 0000022d36a4df00] silence_start: 613.535125
+[silencedetect @ 0000022d36a4df00] silence_end: 616.794399 | silence_duration: 3.259274
+[silencedetect @ 0000022d36a4df00] silence_start: 618.293583
+[silencedetect @ 0000022d36a4df00] silence_end: 621.590249 | silence_duration: 3.296667
+[silencedetect @ 0000022d36a4df00] silence_start: 625.830703
+[silencedetect @ 0000022d36a4df00] silence_end: 628.150907 | silence_duration: 2.320204
+[silencedetect @ 0000022d36a4df00] silence_start: 631.203197
+size=N/A time=00:10:42.67 bitrate=N/A speed=1.25e+03x elapsed=0:00:00.51    [mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 28940901 >= 28940105
+[silencedetect @ 0000022d36a4df00] silence_end: 656.62381 | silence_duration: 25.420612
+[silencedetect @ 0000022d36a4df00] silence_start: 657.437234
+[silencedetect @ 0000022d36a4df00] silence_end: 659.294399 | silence_duration: 1.857166
+[silencedetect @ 0000022d36a4df00] silence_start: 662.068095
+[silencedetect @ 0000022d36a4df00] silence_end: 664.97288 | silence_duration: 2.904785
+[silencedetect @ 0000022d36a4df00] silence_start: 667.920476
+[silencedetect @ 0000022d36a4df00] silence_end: 671.295918 | silence_duration: 3.375442
+[silencedetect @ 0000022d36a4df00] silence_start: 672.793537
+[silencedetect @ 0000022d36a4df00] silence_end: 676.077619 | silence_duration: 3.284082
+[silencedetect @ 0000022d36a4df00] silence_start: 678.851156
+[silencedetect @ 0000022d36a4df00] silence_end: 681.756281 | silence_duration: 2.905125
+[silencedetect @ 0000022d36a4df00] silence_start: 684.703673
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 31298249 >= 31297514
+[silencedetect @ 0000022d36a4df00] silence_end: 709.988753 | silence_duration: 25.285079
+[silencedetect @ 0000022d36a4df00] silence_start: 711.69678
+[silencedetect @ 0000022d36a4df00] silence_end: 713.771859 | silence_duration: 2.075079
+[silencedetect @ 0000022d36a4df00] silence_start: 717.692517
+[silencedetect @ 0000022d36a4df00] silence_end: 719.315215 | silence_duration: 1.622698
+[silencedetect @ 0000022d36a4df00] silence_start: 723.15068
+[silencedetect @ 0000022d36a4df00] silence_end: 726.239138 | silence_duration: 3.088458
+[silencedetect @ 0000022d36a4df00] silence_start: 727.097438
+[silencedetect @ 0000022d36a4df00] silence_end: 729.287234 | silence_duration: 2.189796
+[silencedetect @ 0000022d36a4df00] silence_start: 730.434036
+[silencedetect @ 0000022d36a4df00] silence_end: 732.801542 | silence_duration: 2.367506
+[silencedetect @ 0000022d36a4df00] silence_start: 737.803673
+[silencedetect @ 0000022d36a4df00] silence_end: 740.976667 | silence_duration: 3.172993
+[silencedetect @ 0000022d36a4df00] silence_start: 742.474263
+[silencedetect @ 0000022d36a4df00] silence_end: 745.586281 | silence_duration: 3.112018
+[silencedetect @ 0000022d36a4df00] silence_start: 746.733061
+[silencedetect @ 0000022d36a4df00] silence_end: 749.100612 | silence_duration: 2.367551
+[silencedetect @ 0000022d36a4df00] silence_start: 754.102676
+[silencedetect @ 0000022d36a4df00] silence_end: 757.271746 | silence_duration: 3.16907
+[silencedetect @ 0000022d36a4df00] silence_start: 759.655873
+[silencedetect @ 0000022d36a4df00] silence_end: 762.992494 | silence_duration: 3.336621
+[silencedetect @ 0000022d36a4df00] silence_start: 763.867891
+[silencedetect @ 0000022d36a4df00] silence_end: 765.653787 | silence_duration: 1.785896
+[silencedetect @ 0000022d36a4df00] silence_start: 768.114535
+[silencedetect @ 0000022d36a4df00] silence_end: 770.57619 | silence_duration: 2.461655
+[silencedetect @ 0000022d36a4df00] silence_start: 772.237687
+[silencedetect @ 0000022d36a4df00] silence_end: 778.391859 | silence_duration: 6.154172
+[silencedetect @ 0000022d36a4df00] silence_start: 779.891111
+[silencedetect @ 0000022d36a4df00] silence_end: 782.975397 | silence_duration: 3.084286
+[silencedetect @ 0000022d36a4df00] silence_start: 785.436122
+[silencedetect @ 0000022d36a4df00] silence_end: 787.896893 | silence_duration: 2.460771
+[silencedetect @ 0000022d36a4df00] silence_start: 789.559524
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 35925098 >= 35922414
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 35925098 >= 35923566
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 35925098 >= 35924718
+[silencedetect @ 0000022d36a4df00] silence_end: 814.995986 | silence_duration: 25.436463
+[silencedetect @ 0000022d36a4df00] silence_start: 816.062154
+[silencedetect @ 0000022d36a4df00] silence_end: 817.711542 | silence_duration: 1.649388
+[silencedetect @ 0000022d36a4df00] silence_start: 821.516485
+[silencedetect @ 0000022d36a4df00] silence_end: 823.904308 | silence_duration: 2.387823
+[silencedetect @ 0000022d36a4df00] silence_start: 829.614558
+[silencedetect @ 0000022d36a4df00] silence_end: 832.853515 | silence_duration: 3.238957
+[silencedetect @ 0000022d36a4df00] silence_start: 834.352766
+[silencedetect @ 0000022d36a4df00] silence_end: 837.398231 | silence_duration: 3.045465
+[silencedetect @ 0000022d36a4df00] silence_start: 841.203129
+[silencedetect @ 0000022d36a4df00] silence_end: 843.590975 | silence_duration: 2.387846
+[silencedetect @ 0000022d36a4df00] silence_start: 849.30068
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 38540910 >= 38539951
+[silencedetect @ 0000022d36a4df00] silence_end: 874.317732 | silence_duration: 25.017052
+[silencedetect @ 0000022d36a4df00] silence_start: 875.484762
+[silencedetect @ 0000022d36a4df00] silence_end: 877.432608 | silence_duration: 1.947846
+[silencedetect @ 0000022d36a4df00] silence_start: 881.198481
+[silencedetect @ 0000022d36a4df00] silence_end: 884.060091 | silence_duration: 2.86161
+[silencedetect @ 0000022d36a4df00] silence_start: 886.506304
+[silencedetect @ 0000022d36a4df00] silence_end: 889.788821 | silence_duration: 3.282517
+[silencedetect @ 0000022d36a4df00] silence_start: 891.286621
+[silencedetect @ 0000022d36a4df00] silence_end: 894.536916 | silence_duration: 3.250295
+[silencedetect @ 0000022d36a4df00] silence_start: 898.305465
+[silencedetect @ 0000022d36a4df00] silence_end: 901.166803 | silence_duration: 2.861338
+[silencedetect @ 0000022d36a4df00] silence_start: 903.564966
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 40953391 >= 40952609
+[silencedetect @ 0000022d36a4df00] silence_end: 929.04517 | silence_duration: 25.480204
+[silencedetect @ 0000022d36a4df00] silence_start: 930.291202
+[silencedetect @ 0000022d36a4df00] silence_end: 931.975102 | silence_duration: 1.6839
+[silencedetect @ 0000022d36a4df00] silence_start: 934.55415
+[silencedetect @ 0000022d36a4df00] silence_end: 937.143175 | silence_duration: 2.589025
+[silencedetect @ 0000022d36a4df00] silence_start: 939.930544
+[silencedetect @ 0000022d36a4df00] silence_end: 943.076168 | silence_duration: 3.145624
+[silencedetect @ 0000022d36a4df00] silence_start: 944.573719
+[silencedetect @ 0000022d36a4df00] silence_end: 947.712562 | silence_duration: 3.138844
+[silencedetect @ 0000022d36a4df00] silence_start: 950.29161
+[silencedetect @ 0000022d36a4df00] silence_end: 952.880499 | silence_duration: 2.588889
+[silencedetect @ 0000022d36a4df00] silence_start: 955.667937
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 43240481 >= 43239807
+[silencedetect @ 0000022d36a4df00] silence_end: 980.789184 | silence_duration: 25.121247
+[silencedetect @ 0000022d36a4df00] silence_start: 982.497052
+[silencedetect @ 0000022d36a4df00] silence_end: 984.504898 | silence_duration: 2.007846
+[silencedetect @ 0000022d36a4df00] silence_start: 989.827551
+[silencedetect @ 0000022d36a4df00] silence_end: 993.071179 | silence_duration: 3.243628
+[silencedetect @ 0000022d36a4df00] silence_start: 994.24068
+[silencedetect @ 0000022d36a4df00] silence_end: 995.912018 | silence_duration: 1.671338
+[silencedetect @ 0000022d36a4df00] silence_start: 998.297029
+[silencedetect @ 0000022d36a4df00] silence_end: 1000.693651 | silence_duration: 2.396621
+[silencedetect @ 0000022d36a4df00] silence_start: 1002.356213
+[silencedetect @ 0000022d36a4df00] silence_end: 1005.810385 | silence_duration: 3.454172
+[silencedetect @ 0000022d36a4df00] silence_start: 1007.372426
+[silencedetect @ 0000022d36a4df00] silence_end: 1010.614082 | silence_duration: 3.241655
+[silencedetect @ 0000022d36a4df00] silence_start: 1012.999184
+[silencedetect @ 0000022d36a4df00] silence_end: 1015.395556 | silence_duration: 2.396372
+[silencedetect @ 0000022d36a4df00] silence_start: 1017.058322
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 45945855 >= 45944822
+[silencedetect @ 0000022d36a4df00] silence_end: 1042.306803 | silence_duration: 25.248481
+[silencedetect @ 0000022d36a4df00] silence_start: 1043.485329
+[silencedetect @ 0000022d36a4df00] silence_end: 1045.234921 | silence_duration: 1.749592
+[silencedetect @ 0000022d36a4df00] silence_start: 1049.405238
+[silencedetect @ 0000022d36a4df00] silence_end: 1051.916599 | silence_duration: 2.511361
+[silencedetect @ 0000022d36a4df00] silence_start: 1056.121474
+[silencedetect @ 0000022d36a4df00] silence_end: 1059.420363 | silence_duration: 3.298889
+[silencedetect @ 0000022d36a4df00] silence_start: 1060.962449
+[silencedetect @ 0000022d36a4df00] silence_end: 1064.365034 | silence_duration: 3.402585
+[silencedetect @ 0000022d36a4df00] silence_start: 1068.537937
+[silencedetect @ 0000022d36a4df00] silence_end: 1071.048413 | silence_duration: 2.510476
+[silencedetect @ 0000022d36a4df00] silence_start: 1075.253288
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 48518390 >= 48517471
+[silencedetect @ 0000022d36a4df00] silence_end: 1100.464853 | silence_duration: 25.211565
+[silencedetect @ 0000022d36a4df00] silence_start: 1102.16449
+[silencedetect @ 0000022d36a4df00] silence_end: 1104.28068 | silence_duration: 2.11619
+[silencedetect @ 0000022d36a4df00] silence_start: 1111.570408
+[silencedetect @ 0000022d36a4df00] silence_end: 1114.74 | silence_duration: 3.169592
+[silencedetect @ 0000022d36a4df00] silence_start: 1115.598141
+[silencedetect @ 0000022d36a4df00] silence_end: 1118.043243 | silence_duration: 2.445102
+[silencedetect @ 0000022d36a4df00] silence_start: 1127.47483
+[silencedetect @ 0000022d36a4df00] silence_end: 1130.779229 | silence_duration: 3.304399
+[silencedetect @ 0000022d36a4df00] silence_start: 1132.321451
+[silencedetect @ 0000022d36a4df00] silence_end: 1135.850567 | silence_duration: 3.529116
+[silencedetect @ 0000022d36a4df00] silence_start: 1145.279002
+[silencedetect @ 0000022d36a4df00] silence_end: 1148.756236 | silence_duration: 3.477234
+[silencedetect @ 0000022d36a4df00] silence_start: 1150.911497
+[silencedetect @ 0000022d36a4df00] silence_end: 1154.015896 | silence_duration: 3.104399
+[silencedetect @ 0000022d36a4df00] silence_start: 1155.145488
+[silencedetect @ 0000022d36a4df00] silence_end: 1156.722222 | silence_duration: 1.576735
+[silencedetect @ 0000022d36a4df00] silence_start: 1173.295578
+[silencedetect @ 0000022d36a4df00] silence_end: 1176.574875 | silence_duration: 3.279297
+[silencedetect @ 0000022d36a4df00] silence_start: 1178.117528
+[silencedetect @ 0000022d36a4df00] silence_end: 1181.347302 | silence_duration: 3.229773
+[silencedetect @ 0000022d36a4df00] silence_start: 1197.920952
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 53921503 >= 53918151
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 53921503 >= 53919303
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 53921503 >= 53920455
+[silencedetect @ 0000022d36a4df00] silence_end: 1223.063016 | silence_duration: 25.142063
+[silencedetect @ 0000022d36a4df00] silence_start: 1224.285057
+[silencedetect @ 0000022d36a4df00] silence_end: 1225.968957 | silence_duration: 1.6839
+[silencedetect @ 0000022d36a4df00] silence_start: 1257.336893
+[silencedetect @ 0000022d36a4df00] silence_end: 1260.628118 | silence_duration: 3.291224
+[silencedetect @ 0000022d36a4df00] silence_start: 1262.170295
+[silencedetect @ 0000022d36a4df00] silence_end: 1265.490816 | silence_duration: 3.320522
+[silencedetect @ 0000022d36a4df00] silence_start: 1296.836848
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 58266951 >= 58264505
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 58266951 >= 58265657
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 58266951 >= 58266809
+[silencedetect @ 0000022d36a4df00] silence_end: 1321.527914 | silence_duration: 24.691066
+[silencedetect @ 0000022d36a4df00] silence_start: 1322.664966
+[silencedetect @ 0000022d36a4df00] silence_end: 1324.486712 | silence_duration: 1.821746
+size=N/A time=00:22:26.99 bitrate=N/A speed=1.31e+03x elapsed=0:00:01.02    [silencedetect @ 0000022d36a4df00] silence_start: 1353.141973
+[silencedetect @ 0000022d36a4df00] silence_end: 1356.484807 | silence_duration: 3.342834
+[silencedetect @ 0000022d36a4df00] silence_start: 1358.033968
+[silencedetect @ 0000022d36a4df00] silence_end: 1361.499478 | silence_duration: 3.46551
+[silencedetect @ 0000022d36a4df00] silence_start: 1390.142766
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 62388665 >= 62386413
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 62388665 >= 62387565
+[silencedetect @ 0000022d36a4df00] silence_end: 1414.98932 | silence_duration: 24.846553
+[silencedetect @ 0000022d36a4df00] silence_start: 1415.972132
+[silencedetect @ 0000022d36a4df00] silence_end: 1417.569637 | silence_duration: 1.597506
+[silencedetect @ 0000022d36a4df00] silence_start: 1441.278118
+[silencedetect @ 0000022d36a4df00] silence_end: 1444.794649 | silence_duration: 3.516531
+[silencedetect @ 0000022d36a4df00] silence_start: 1446.33678
+[silencedetect @ 0000022d36a4df00] silence_end: 1449.53907 | silence_duration: 3.20229
+[silencedetect @ 0000022d36a4df00] silence_start: 1473.24805
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 66054381 >= 66052521
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 66054381 >= 66053673
+[silencedetect @ 0000022d36a4df00] silence_end: 1498.100204 | silence_duration: 24.852154
+[silencedetect @ 0000022d36a4df00] silence_start: 1499.48551
+[silencedetect @ 0000022d36a4df00] silence_end: 1501.143356 | silence_duration: 1.657846
+[silencedetect @ 0000022d36a4df00] silence_start: 1529.878481
+[silencedetect @ 0000022d36a4df00] silence_end: 1533.249546 | silence_duration: 3.371066
+[silencedetect @ 0000022d36a4df00] silence_start: 1534.796032
+[silencedetect @ 0000022d36a4df00] silence_end: 1538.078027 | silence_duration: 3.281995
+[silencedetect @ 0000022d36a4df00] silence_start: 1566.814989
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 70180137 >= 70177882
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 70180137 >= 70179034
+[silencedetect @ 0000022d36a4df00] silence_end: 1591.630295 | silence_duration: 24.815306
+[silencedetect @ 0000022d36a4df00] silence_start: 1593.330272
+[silencedetect @ 0000022d36a4df00] silence_end: 1595.433379 | silence_duration: 2.103107
+[silencedetect @ 0000022d36a4df00] silence_start: 1601.198798
+[silencedetect @ 0000022d36a4df00] silence_end: 1604.380975 | silence_duration: 3.182177
+[silencedetect @ 0000022d36a4df00] silence_start: 1605.714535
+[silencedetect @ 0000022d36a4df00] silence_end: 1607.399388 | silence_duration: 1.684853
+[silencedetect @ 0000022d36a4df00] silence_start: 1615.974603
+[silencedetect @ 0000022d36a4df00] silence_end: 1617.591723 | silence_duration: 1.61712
+[silencedetect @ 0000022d36a4df00] silence_start: 1639.231451
+[silencedetect @ 0000022d36a4df00] silence_end: 1642.554535 | silence_duration: 3.323084
+[silencedetect @ 0000022d36a4df00] silence_start: 1644.102132
+[silencedetect @ 0000022d36a4df00] silence_end: 1647.28551 | silence_duration: 3.183379
+[silencedetect @ 0000022d36a4df00] silence_start: 1655.85746
+[silencedetect @ 0000022d36a4df00] silence_end: 1657.47805 | silence_duration: 1.62059
+[silencedetect @ 0000022d36a4df00] silence_start: 1679.117596
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 75125722 >= 75122762
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 75125722 >= 75123914
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 75125722 >= 75125066
+[silencedetect @ 0000022d36a4df00] silence_end: 1703.807528 | silence_duration: 24.689932
+[silencedetect @ 0000022d36a4df00] silence_start: 1705.131134
+[silencedetect @ 0000022d36a4df00] silence_end: 1706.964558 | silence_duration: 1.833424
+[silencedetect @ 0000022d36a4df00] silence_start: 1739.0678
+[silencedetect @ 0000022d36a4df00] silence_end: 1742.602993 | silence_duration: 3.535193
+[silencedetect @ 0000022d36a4df00] silence_start: 1744.144512
+[silencedetect @ 0000022d36a4df00] silence_end: 1747.364127 | silence_duration: 3.219615
+[silencedetect @ 0000022d36a4df00] silence_start: 1779.465283
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 79548746 >= 79546235
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 79548746 >= 79547387
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 79548746 >= 79548539
+[silencedetect @ 0000022d36a4df00] silence_end: 1804.159478 | silence_duration: 24.694195
+[silencedetect @ 0000022d36a4df00] silence_start: 1805.540748
+[silencedetect @ 0000022d36a4df00] silence_end: 1807.266395 | silence_duration: 1.725646
+[silencedetect @ 0000022d36a4df00] silence_start: 1825.601247
+[silencedetect @ 0000022d36a4df00] silence_end: 1827.358821 | silence_duration: 1.757574
+[silencedetect @ 0000022d36a4df00] silence_start: 1844.180045
+[silencedetect @ 0000022d36a4df00] silence_end: 1847.433356 | silence_duration: 3.253311
+[silencedetect @ 0000022d36a4df00] silence_start: 1848.976485
+[silencedetect @ 0000022d36a4df00] silence_end: 1852.332336 | silence_duration: 3.35585
+[silencedetect @ 0000022d36a4df00] silence_start: 1870.667007
+[silencedetect @ 0000022d36a4df00] silence_end: 1872.424853 | silence_duration: 1.757846
+[silencedetect @ 0000022d36a4df00] silence_start: 1889.245624
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 84393851 >= 84390977
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 84393851 >= 84392129
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 84393851 >= 84393281
+[silencedetect @ 0000022d36a4df00] silence_end: 1913.922154 | silence_duration: 24.676531
+[silencedetect @ 0000022d36a4df00] silence_start: 1915.630159
+[silencedetect @ 0000022d36a4df00] silence_end: 1917.604762 | silence_duration: 1.974603
+[silencedetect @ 0000022d36a4df00] silence_start: 1921.451338
+[silencedetect @ 0000022d36a4df00] silence_end: 1923.1922 | silence_duration: 1.740862
+[silencedetect @ 0000022d36a4df00] silence_start: 1941.114354
+[silencedetect @ 0000022d36a4df00] silence_end: 1943.236054 | silence_duration: 2.121701
+[silencedetect @ 0000022d36a4df00] silence_start: 1955.679025
+[silencedetect @ 0000022d36a4df00] silence_end: 1957.514989 | silence_duration: 1.835964
+[silencedetect @ 0000022d36a4df00] silence_start: 1966.389161
+[silencedetect @ 0000022d36a4df00] silence_end: 1968.044649 | silence_duration: 1.655488
+[silencedetect @ 0000022d36a4df00] silence_start: 1969.100658
+[silencedetect @ 0000022d36a4df00] silence_end: 1970.915057 | silence_duration: 1.814399
+[silencedetect @ 0000022d36a4df00] silence_start: 1973.949116
+[silencedetect @ 0000022d36a4df00] silence_end: 1976.368209 | silence_duration: 2.419093
+[silencedetect @ 0000022d36a4df00] silence_start: 1977.911746
+[silencedetect @ 0000022d36a4df00] silence_end: 1981.064694 | silence_duration: 3.152948
+[silencedetect @ 0000022d36a4df00] silence_start: 1998.987052
+[silencedetect @ 0000022d36a4df00] silence_end: 2001.108753 | silence_duration: 2.121701
+[silencedetect @ 0000022d36a4df00] silence_start: 2013.55127
+[silencedetect @ 0000022d36a4df00] silence_end: 2015.390272 | silence_duration: 1.839002
+size=N/A time=00:33:44.12 bitrate=N/A speed=1.31e+03x elapsed=0:00:01.54    [silencedetect @ 0000022d36a4df00] silence_start: 2024.261837
+[silencedetect @ 0000022d36a4df00] silence_end: 2025.917166 | silence_duration: 1.655329
+[silencedetect @ 0000022d36a4df00] silence_start: 2026.973333
+[silencedetect @ 0000022d36a4df00] silence_end: 2028.786916 | silence_duration: 1.813583
+[silencedetect @ 0000022d36a4df00] silence_start: 2031.818073
+[silencedetect @ 0000022d36a4df00] silence_end: 2034.236825 | silence_duration: 2.418753
+[silencedetect @ 0000022d36a4df00] silence_start: 2035.573039
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 90857153 >= 90852888
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 90857153 >= 90854040
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 90857153 >= 90855192
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 90857153 >= 90856344
+[silencedetect @ 0000022d36a4df00] silence_end: 2060.539116 | silence_duration: 24.966077
+[silencedetect @ 0000022d36a4df00] silence_start: 2061.855533
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[silencedetect @ 0000022d36a4df00] silence_end: 2087.049864 | silence_duration: 25.194331
+[silencedetect @ 0000022d36a4df00] silence_start: 2088.757868
+[silencedetect @ 0000022d36a4df00] silence_end: 2090.764739 | silence_duration: 2.006871
+[silencedetect @ 0000022d36a4df00] silence_start: 2094.358231
+[silencedetect @ 0000022d36a4df00] silence_end: 2096.243152 | silence_duration: 1.884921
+[silencedetect @ 0000022d36a4df00] silence_start: 2110.17678
+[silencedetect @ 0000022d36a4df00] silence_end: 2111.752472 | silence_duration: 1.575692
+[silencedetect @ 0000022d36a4df00] silence_start: 2116.331519
+[silencedetect @ 0000022d36a4df00] silence_end: 2118.014014 | silence_duration: 1.682494
+[silencedetect @ 0000022d36a4df00] silence_start: 2122.787914
+[silencedetect @ 0000022d36a4df00] silence_end: 2124.334467 | silence_duration: 1.546553
+[silencedetect @ 0000022d36a4df00] silence_start: 2127.589433
+[silencedetect @ 0000022d36a4df00] silence_end: 2129.476032 | silence_duration: 1.886599
+[silencedetect @ 0000022d36a4df00] silence_start: 2143.210544
+[silencedetect @ 0000022d36a4df00] silence_end: 2144.865057 | silence_duration: 1.654512
+[silencedetect @ 0000022d36a4df00] silence_start: 2146.887506
+[silencedetect @ 0000022d36a4df00] silence_end: 2150.33 | silence_duration: 3.442494
+[silencedetect @ 0000022d36a4df00] silence_start: 2151.876553
+[silencedetect @ 0000022d36a4df00] silence_end: 2155.305488 | silence_duration: 3.428934
+[silencedetect @ 0000022d36a4df00] silence_start: 2169.239388
+[silencedetect @ 0000022d36a4df00] silence_end: 2170.810816 | silence_duration: 1.571429
+[silencedetect @ 0000022d36a4df00] silence_start: 2175.393946
+[silencedetect @ 0000022d36a4df00] silence_end: 2177.076349 | silence_duration: 1.682404
+[silencedetect @ 0000022d36a4df00] silence_start: 2181.852857
+[silencedetect @ 0000022d36a4df00] silence_end: 2183.396893 | silence_duration: 1.544036
+[silencedetect @ 0000022d36a4df00] silence_start: 2186.651701
+[silencedetect @ 0000022d36a4df00] silence_end: 2188.53839 | silence_duration: 1.886689
+[silencedetect @ 0000022d36a4df00] silence_start: 2202.272834
+[silencedetect @ 0000022d36a4df00] silence_end: 2203.927551 | silence_duration: 1.654717
+[silencedetect @ 0000022d36a4df00] silence_start: 2205.949864
+[silencedetect @ 0000022d36a4df00] silence_end: 2209.511542 | silence_duration: 3.561678
+[silencedetect @ 0000022d36a4df00] silence_start: 2210.873537
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 98587701 >= 98583354
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 98587701 >= 98584506
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 98587701 >= 98585658
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 98587701 >= 98586810
+[silencedetect @ 0000022d36a4df00] silence_end: 2235.958413 | silence_duration: 25.084875
+[silencedetect @ 0000022d36a4df00] silence_start: 2237.17254
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[silencedetect @ 0000022d36a4df00] silence_end: 2262.162744 | silence_duration: 24.990204
+[silencedetect @ 0000022d36a4df00] silence_start: 2263.869184
+[silencedetect @ 0000022d36a4df00] silence_end: 2265.843288 | silence_duration: 1.974104
+[silencedetect @ 0000022d36a4df00] silence_start: 2269.520363
+[silencedetect @ 0000022d36a4df00] silence_end: 2271.683129 | silence_duration: 2.162766
+[silencedetect @ 0000022d36a4df00] silence_start: 2279.312381
+[silencedetect @ 0000022d36a4df00] silence_end: 2281.181519 | silence_duration: 1.869138
+[silencedetect @ 0000022d36a4df00] silence_start: 2289.11322
+[silencedetect @ 0000022d36a4df00] silence_end: 2290.70424 | silence_duration: 1.59102
+[silencedetect @ 0000022d36a4df00] silence_start: 2298.936145
+[silencedetect @ 0000022d36a4df00] silence_end: 2300.440816 | silence_duration: 1.504671
+[silencedetect @ 0000022d36a4df00] silence_start: 2313.765624
+[silencedetect @ 0000022d36a4df00] silence_end: 2315.525351 | silence_duration: 1.759728
+[silencedetect @ 0000022d36a4df00] silence_start: 2326.955125
+[silencedetect @ 0000022d36a4df00] silence_end: 2328.657075 | silence_duration: 1.70195
+[silencedetect @ 0000022d36a4df00] silence_start: 2335.461338
+[silencedetect @ 0000022d36a4df00] silence_end: 2336.983764 | silence_duration: 1.522426
+[silencedetect @ 0000022d36a4df00] silence_start: 2347.87941
+[silencedetect @ 0000022d36a4df00] silence_end: 2351.312789 | silence_duration: 3.433379
+[silencedetect @ 0000022d36a4df00] silence_start: 2352.85805
+[silencedetect @ 0000022d36a4df00] silence_end: 2356.250204 | silence_duration: 3.392154
+[silencedetect @ 0000022d36a4df00] silence_start: 2363.879501
+[silencedetect @ 0000022d36a4df00] silence_end: 2365.748753 | silence_duration: 1.869252
+[silencedetect @ 0000022d36a4df00] silence_start: 2373.680317
+[silencedetect @ 0000022d36a4df00] silence_end: 2375.271338 | silence_duration: 1.59102
+[silencedetect @ 0000022d36a4df00] silence_start: 2383.498707
+[silencedetect @ 0000022d36a4df00] silence_end: 2385.007937 | silence_duration: 1.509229
+[silencedetect @ 0000022d36a4df00] silence_start: 2398.332744
+[silencedetect @ 0000022d36a4df00] silence_end: 2400.092744 | silence_duration: 1.76
+[silencedetect @ 0000022d36a4df00] silence_start: 2411.522245
+[silencedetect @ 0000022d36a4df00] silence_end: 2413.224218 | silence_duration: 1.701973
+[silencedetect @ 0000022d36a4df00] silence_start: 2420.028435
+[silencedetect @ 0000022d36a4df00] silence_end: 2421.552721 | silence_duration: 1.524286
+[silencedetect @ 0000022d36a4df00] silence_start: 2432.446508
+[silencedetect @ 0000022d36a4df00] silence_end: 2435.880317 | silence_duration: 3.43381
+[silencedetect @ 0000022d36a4df00] silence_start: 2437.079478
+[mp3 @ 0000022d34ad7740] Estimating duration from bitrate, this may be inaccurate
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 108570333 >= 108564044
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 108570333 >= 108565196
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 108570333 >= 108566348
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 108570333 >= 108567500
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 108570333 >= 108568652
+[null @ 0000022d34bbdec0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 108570333 >= 108569804
+[silencedetect @ 0000022d36a4df00] silence_end: 2462.080431 | silence_duration: 25.000952
+[silencedetect @ 0000022d36a4df00] silence_start: 2463.495397
+[silencedetect @ 0000022d36a4df00] silence_end: 2485.421519 | silence_duration: 21.926122
+[silencedetect @ 0000022d36a4df00] silence_start: 2503.931497
+[silencedetect @ 0000022d36a4df00] silence_end: 2509.338685 | silence_duration: 5.407188
+[out#0/null @ 0000022d36a46780] video:0KiB audio:432621KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:41:49.33 bitrate=N/A speed=1.29e+03x elapsed=0:00:01.93    

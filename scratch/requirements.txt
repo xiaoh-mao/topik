@@ -1,0 +1,4 @@
+# 只有生成数据的脚本要用，做题不用 Python：python -m pip install -r scratch\requirements.txt
+pymupdf>=1.24
+numpy
+scipy

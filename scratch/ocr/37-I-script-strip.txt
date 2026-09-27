@@ -1,0 +1,46 @@
+### D:\claude\topik\scratch\ocr\strip\37-I-script-01.png
+121 591 15 50	[ 1 ． ～ 过
+121 1301 40 44	0 召 ）
+121 1958 40 44	0 召 ）
+24 1962 27 40	2 ．
+121 2615 17 44	（ 3 召 ）
+24 2619 27 40	3 ．
+121 2981 47 51	0 叫
+### D:\claude\topik\scratch\ocr\strip\37-I-script-02.png
+24 391 27 41	4 ．
+24 1827 27 41	5 ．
+24 2547 27 40	6 ．
+121 388 17 44	（ 3 召 ）
+121 2543 17 44	（ 3 召 ）
+### D:\claude\topik\scratch\ocr\strip\37-I-script-03.png
+29 1566 26 41	8 ，
+10 2132 26 41	9 ．
+165 381 17 50	[ 7 廴
+145 1004 17 43	（ 3 召 ）
+126 1566 16 45	（ 3 和
+108 2132 17 44	（ 3 和
+0 2695 50 42	瞪 0 和
+### D:\claude\topik\scratch\ocr\strip\37-I-script-04.png
+121 391 72 50	[II 、
+27 1092 41 41	11 ` （ 3 召 ）
+27 1633 44 41	12 ， （ 3 召 ）
+27 2171 19 41	1 & 0 召 ）
+27 2709 53 41	且 （ 3 召 ）
+### D:\claude\topik\scratch\ocr\strip\37-I-script-05.png
+34 414 18 51	[ 15 、
+44 1934 21 41	1 气
+### D:\claude\topik\scratch\ocr\strip\37-I-script-06.png
+121 391 15 50	[ 17 、
+33 2137 47 40	18 ．
+### D:\claude\topik\scratch\ocr\strip\37-I-script-07.png
+33 432 47 40	19 ．
+### D:\claude\topik\scratch\ocr\strip\37-I-script-08.png
+0 441 55 40	21.
+### D:\claude\topik\scratch\ocr\strip\37-I-script-09.png
+30 1596 25 40	2 生
+### D:\claude\topik\scratch\ocr\strip\37-I-script-10.png
+127 1583 2 3	． 0 ， 0
+### D:\claude\topik\scratch\ocr\strip\37-I-script-11.png
+24 1292 50 41	27 ， ，
+### D:\claude\topik\scratch\ocr\strip\37-I-script-12.png
+127 2027 2 3	． 0 ， 0

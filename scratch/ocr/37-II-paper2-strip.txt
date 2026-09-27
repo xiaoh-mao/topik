@@ -1,0 +1,67 @@
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-01.png
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-02.png
+93 1226 22 38	2 ， 牵 总
+93 1502 22 37	3 ，
+93 1777 22 34	4 ，
+149 1868 81 37	Use
+93 2052 22 38	5 ， 剂 曙
+149 2143 81 38	Mar
+93 2518 22 38	6 ， 是
+93 2794 22 37	7 ，
+149 2884 81 35	Whi
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-03.png
+8 1187 26 42	2 、
+33 1750 36 39	※ [ 3 、 4
+40 2326 25 41	4 、
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-04.png
+121 391 15 50	[ 5
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-05.png
+33 1768 47 40	10 ．
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-06.png
+165 698 43 40	12 气
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-07.png
+33 397 35 38	※ [ 13 、
+33 551 44 40	13 ．
+33 1448 53 41	且
+33 2259 47 40	15 ．
+165 1442 62 50	回
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-08.png
+33 641 47 41	16 ．
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-09.png
+33 432 47 40	18 ．
+121 1467 15 50	[ 1 卟
+27 2278 47 40	19 ` （
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-10.png
+121 391 15 50	[ 21 、
+24 1204 44 41	21 ` （
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-11.png
+24 1937 47 40	24 ` 。 〕
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-12.png
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-13.png
+33 397 35 38	※ [ 28 、
+212 644 18 26	0
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-14.png
+30 1596 56 40	31.
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-15.png
+121 391 15 50	[ 32 、
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-16.png
+30 1802 56 41	35.
+208 1802 22 38	2
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-17.png
+30 1596 50 40	37 ．
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-18.png
+121 1642 15 51	[ 39 、
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-19.png
+30 432 56 40	40
+30 1661 56 41	41.
+165 2018 25 31	7 吓
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-20.png
+15 420 19 51	[ 42 、
+40 1941 48 40	42 `
+76 2406 48 41	43 ` 01 过
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-21.png
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-22.png
+24 1470 50 41	46 ． 邙 音
+### D:\claude\topik\scratch\ocr\strip\37-II-paper2-23.png
+24 1736 50 41	48 ．
+24 2306 50 40	49 `

@@ -1,0 +1,58 @@
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-01.png
+106 466 54 19	TestOf
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-02.png
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-03.png
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-04.png
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-05.png
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-06.png
+83 2003 24 36	4 ，
+84 2498 23 37	5 ．
+174 1889 15 47	[ 4 一
+173 1998 44 46	0
+173 2494 44 45	0
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-07.png
+173 1349 44 46	0
+84 1353 23 38	8 ，
+174 1884 15 46	[ 9 一
+173 2350 44 45	0
+86 2354 42 37	10 ．
+86 2897 41 38	12 ， 0
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-08.png
+86 589 42 38	13 ， 0
+86 1579 42 37	15 ， 0
+173 2070 44 45	0
+86 2074 42 37	16 ·
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-09.png
+86 590 42 37	17 ． 0
+86 1085 42 37	18 · 0
+86 1578 42 38	19 ， 0
+84 2074 44 37	20 · 0
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-10.png
+174 477 15 46	[ 2 〕
+84 589 52 38	21. 庸
+174 1870 15 46	[ 2 ：
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-11.png
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-12.png
+174 1870 15 46	[ 3 〕
+84 1982 52 38	31.
+84 2582 43 38	32 ．
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-13.png
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-14.png
+84 589 44 38	37 ， 叫 氵
+174 1870 15 46	[ 3 [
+84 1983 44 37	39 · 叫
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-15.png
+174 477 15 46	[ 4 〕
+83 590 43 37	41 ，
+175 593 20 22	0
+83 1190 44 37	42 ·
+83 1982 45 38	43 · 叫
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-16.png
+163 1184 35 48	叫 只
+83 1983 45 37	47 ·
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-17.png
+175 1184 35 48	叫 ，
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-18.png
+89 875 52 38	51.
+### D:\claude\topik\scratch\ocr\strip\60-II-paper1-19.png
+1 514 26 40	3 ·

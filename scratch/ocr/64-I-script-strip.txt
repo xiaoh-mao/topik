@@ -1,0 +1,44 @@
+### D:\claude\topik\scratch\ocr\strip\64-I-script-01.png
+84 1947 22 38	2 ．
+84 2561 22 38	3 ．
+174 668 15 47	[ 1 一
+175 2559 12 43	（ 3 衤
+### D:\claude\topik\scratch\ocr\strip\64-I-script-02.png
+84 481 22 37	4 ，
+84 1902 23 37	5 ，
+83 2555 23 37	6 ．
+175 478 12 43	（ 3 衤
+174 1236 15 47	[ 5 一
+175 2552 12 43	（ 3 衤
+### D:\claude\topik\scratch\ocr\strip\64-I-script-03.png
+174 482 15 47	[ 7 一
+175 1063 12 42	（ 3 衤
+84 1065 22 38	7 ，
+175 1585 12 42	（ 3 衤
+84 1586 23 38	8 ．
+175 2106 12 43	（ 3 衤
+84 2108 22 38	9 ，
+86 2631 42 37	10 ， （ 4 衤
+### D:\claude\topik\scratch\ocr\strip\64-I-script-04.png
+174 482 15 47	[ 1 〕
+86 1137 50 37	11. （ 3 衤
+86 1638 42 38	12 · （ 3 衤
+86 2140 42 38	13 · （ 荦
+86 2643 42 37	14 ， （ 3 衤
+### D:\claude\topik\scratch\ocr\strip\64-I-script-05.png
+92 623 42 38	15 ，
+92 1895 42 37	16 ．
+### D:\claude\topik\scratch\ocr\strip\64-I-script-06.png
+91 1272 43 38	17 ，
+92 2108 42 38	18 ．
+### D:\claude\topik\scratch\ocr\strip\64-I-script-07.png
+91 519 43 38	19 ，
+90 1431 44 38	20 ．
+### D:\claude\topik\scratch\ocr\strip\64-I-script-08.png
+90 519 51 38	21.
+90 1712 43 38	22 ．
+### D:\claude\topik\scratch\ocr\strip\64-I-script-09.png
+### D:\claude\topik\scratch\ocr\strip\64-I-script-10.png
+### D:\claude\topik\scratch\ocr\strip\64-I-script-11.png
+### D:\claude\topik\scratch\ocr\strip\64-I-script-12.png
+174 482 15 47	[ 2 [

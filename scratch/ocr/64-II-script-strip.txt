@@ -1,0 +1,50 @@
+### D:\claude\topik\scratch\ocr\strip\64-II-script-01.png
+### D:\claude\topik\scratch\ocr\strip\64-II-script-02.png
+### D:\claude\topik\scratch\ocr\strip\64-II-script-03.png
+### D:\claude\topik\scratch\ocr\strip\64-II-script-04.png
+### D:\claude\topik\scratch\ocr\strip\64-II-script-05.png
+### D:\claude\topik\scratch\ocr\strip\64-II-script-06.png
+90 1466 43 39	10 ，
+212 1470 18 21	0
+### D:\claude\topik\scratch\ocr\strip\64-II-script-07.png
+90 519 51 38	11.
+90 1271 43 39	12 ，
+### D:\claude\topik\scratch\ocr\strip\64-II-script-08.png
+90 627 43 38	13 ．
+90 1546 43 38	14 ，
+212 630 18 23	0
+### D:\claude\topik\scratch\ocr\strip\64-II-script-09.png
+90 518 43 39	15 ．
+90 1446 43 39	16 ，
+212 526 18 24	0
+212 1449 18 23	0
+### D:\claude\topik\scratch\ocr\strip\64-II-script-10.png
+90 1545 43 39	18 ，
+### D:\claude\topik\scratch\ocr\strip\64-II-script-11.png
+90 518 43 39	19 ．
+212 521 18 22	0
+### D:\claude\topik\scratch\ocr\strip\64-II-script-12.png
+83 1319 52 38	21.
+### D:\claude\topik\scratch\ocr\strip\64-II-script-13.png
+### D:\claude\topik\scratch\ocr\strip\64-II-script-14.png
+68 2060 176 72	00
+### D:\claude\topik\scratch\ocr\strip\64-II-script-15.png
+### D:\claude\topik\scratch\ocr\strip\64-II-script-16.png
+### D:\claude\topik\scratch\ocr\strip\64-II-script-17.png
+82 1401 53 39	31. 庸
+82 2001 45 39	32 、 庸
+### D:\claude\topik\scratch\ocr\strip\64-II-script-18.png
+### D:\claude\topik\scratch\ocr\strip\64-II-script-19.png
+76 460 168 80	00
+### D:\claude\topik\scratch\ocr\strip\64-II-script-20.png
+90 483 32 33	※ [ 37
+### D:\claude\topik\scratch\ocr\strip\64-II-script-21.png
+90 483 33 33	※ [ 3
+### D:\claude\topik\scratch\ocr\strip\64-II-script-22.png
+82 1484 53 38	41. 叫
+### D:\claude\topik\scratch\ocr\strip\64-II-script-23.png
+82 1484 45 38	43 ， 叫
+### D:\claude\topik\scratch\ocr\strip\64-II-script-24.png
+82 2082 45 39	46 ， 叫 冫
+### D:\claude\topik\scratch\ocr\strip\64-II-script-25.png
+### D:\claude\topik\scratch\ocr\strip\64-II-script-26.png

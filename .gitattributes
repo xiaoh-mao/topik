@@ -1,0 +1,2 @@
+# 原样存每个字节：.bat 要 CRLF、.ps1 要 BOM，lib/core.lock 记的 SHA256 也要对得上
+* -text

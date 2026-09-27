@@ -1,0 +1,71 @@
+### D:\claude\topik\scratch\ocr\strip\47-II-script-01.png
+### D:\claude\topik\scratch\ocr\strip\47-II-script-02.png
+30 432 25 40	2 、
+### D:\claude\topik\scratch\ocr\strip\47-II-script-03.png
+98 412 25 40	3 、
+### D:\claude\topik\scratch\ocr\strip\47-II-script-04.png
+30 551 27 40	4 ．
+30 1448 27 41	5 ．
+30 2346 27 41	6 ．
+### D:\claude\topik\scratch\ocr\strip\47-II-script-05.png
+30 432 27 40	7 ．
+30 1420 27 41	8 ．
+### D:\claude\topik\scratch\ocr\strip\47-II-script-06.png
+30 641 27 41	9 ．
+33 1452 47 40	10 ．
+### D:\claude\topik\scratch\ocr\strip\47-II-script-07.png
+33 1330 44 40	12 ．
+### D:\claude\topik\scratch\ocr\strip\47-II-script-08.png
+33 397 35 38	※ [ 13 、
+33 551 44 40	13 ． 叫 丿
+33 1536 44 41	14 ．
+### D:\claude\topik\scratch\ocr\strip\47-II-script-09.png
+33 432 47 40	15 ．
+33 1596 47 40	16 ．
+### D:\claude\topik\scratch\ocr\strip\47-II-script-10.png
+33 394 35 38	※ [ 17 、
+33 551 47 40	17 ．
+33 1802 47 41	18 ．
+### D:\claude\topik\scratch\ocr\strip\47-II-script-11.png
+33 432 47 40	19 ．
+### D:\claude\topik\scratch\ocr\strip\47-II-script-12.png
+121 391 15 50	[ 21 、
+### D:\claude\topik\scratch\ocr\strip\47-II-script-13.png
+24 2202 47 41	24 `
+### D:\claude\topik\scratch\ocr\strip\47-II-script-14.png
+24 2115 50 41	26 `
+127 2115 2 3	． 0 ， 0
+### D:\claude\topik\scratch\ocr\strip\47-II-script-15.png
+20 1566 59 42	互 叫 牢
+### D:\claude\topik\scratch\ocr\strip\47-II-script-16.png
+127 2027 2 3	． 0 ， 0
+### D:\claude\topik\scratch\ocr\strip\47-II-script-17.png
+165 381 17 50	[ 3 吓
+29 1544 59 43	31. 甘 只
+8 2188 59 42	32 甘 只 卜
+### D:\claude\topik\scratch\ocr\strip\47-II-script-18.png
+24 2202 47 41	34 `
+### D:\claude\topik\scratch\ocr\strip\47-II-script-19.png
+### D:\claude\topik\scratch\ocr\strip\47-II-script-20.png
+121 391 15 50	[ 37 、
+24 1558 50 41	37 ， ，
+### D:\claude\topik\scratch\ocr\strip\47-II-script-21.png
+24 1558 50 41	39 ， 。 〕
+24 2202 50 41	40 ．
+### D:\claude\topik\scratch\ocr\strip\47-II-script-22.png
+121 391 15 50	[ 41 、
+24 1558 59 41	41. 叫 牢
+24 2202 47 38	42 、
+### D:\claude\topik\scratch\ocr\strip\47-II-script-23.png
+121 391 15 50	[ 43 、
+24 2202 56 41	且 世 甚
+### D:\claude\topik\scratch\ocr\strip\47-II-script-24.png
+24 1649 50 40	45 ．
+24 2290 50 41	46 ， 叫 牢
+### D:\claude\topik\scratch\ocr\strip\47-II-script-25.png
+121 391 15 50	[ 47 、
+24 1558 50 41	47 ， ，
+24 2202 50 41	48 ` 甘
+### D:\claude\topik\scratch\ocr\strip\47-II-script-26.png
+64 405 17 51	[ 49 、
+21 1665 50 41	49 、

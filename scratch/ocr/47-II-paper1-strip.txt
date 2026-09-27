@@ -1,0 +1,87 @@
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-01.png
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-02.png
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-03.png
+93 1226 22 38	2 ， 牵 总
+93 1502 22 37	3 ，
+93 1777 22 34	4 ，
+149 1868 81 37	Use
+93 2052 22 38	5 ， 剂 曙
+149 2143 81 38	Mar
+93 2518 22 38	6 ， 是
+93 2794 22 37	7 ，
+149 2884 81 35	Whi
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-04.png
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-05.png
+27 720 19 40	1 、 0
+24 1918 27 40	2 ．
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-06.png
+24 400 27 41	3 ．
+24 2131 25 40	4 ， ．
+24 2662 27 41	5 ．
+121 394 47 50	0
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-07.png
+24 391 27 41	6 ．
+24 857 25 41	7 、
+24 1326 27 41	8 ．
+24 2065 27 40	9 ．
+27 2356 47 40	10 ` 0 圣
+27 2935 44 40	12 ` 0 刁
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-08.png
+121 391 15 50	[ 13 、
+27 510 44 41	13 ` 0 叫
+27 1571 47 40	15 ` 0 皇
+27 2099 47 41	16 ` 'D
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-09.png
+33 394 35 38	※ [ 17 、
+27 510 47 41	17 ` 0 叫
+27 1039 19 40	1 & 0 叫
+27 1571 47 40	19 `
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-10.png
+24 510 44 41	21 `
+27 1151 44 41	22 `
+24 1915 47 40	23 `
+24 2559 47 41	24 、 一
+121 391 15 50	[ 21 、
+127 1151 2 3	． 0 ， 0
+127 2559 2 3	． 0 ， 0
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-11.png
+89 1173 2 3	． 亡 ． 0
+179 2578 2 3	、 0 ． 0
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-12.png
+127 976 2 3	． 0 ， 0
+121 1621 15 50	[ 31 ～
+24 2381 47 40	32 `
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-13.png
+24 1151 47 41	34 `
+127 1151 2 3	． 0 ， 0
+127 2559 2 3	． 0 ， 0
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-14.png
+121 391 15 50	[ 37 、
+24 510 50 41	37 `
+127 1151 2 3	． 0 ， 0
+24 1915 50 40	39 ` 。 1
+127 2559 2 3	． 0 ， 0
+24 2559 50 41	40 、
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-15.png
+121 391 15 50	[ 41 、
+24 510 44 37	41 ` 叫 牢
+127 1151 2 3	． 0 ， 0
+24 1151 47 38	42 、
+121 1799 15 50	[ 43 、
+24 1915 47 40	43 ` 。 1 。 〕
+24 2559 59 41	且 世 甚
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-16.png
+24 510 50 41	45 ` 。
+24 1151 50 41	46 ` 叫 牢
+33 1805 35 38	※ [ 47 、
+24 1915 50 40	47 ` 号 导
+24 2559 24 38	4 & 牢
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-17.png
+81 383 37 38	※ [ 49 `
+69 496 56 42	49
+166 515 14 7	、 0
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-18.png
+74 583 37 38	※ [ 5 吓
+62 827 57 42	51.
+18 2027 57 43	52
+### D:\claude\topik\scratch\ocr\strip\47-II-paper1-19.png

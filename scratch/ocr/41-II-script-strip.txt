@@ -1,0 +1,111 @@
+### D:\claude\topik\scratch\ocr\strip\41-II-script-01.png
+70 523 15 48	[ 1 、 3 ]
+### D:\claude\topik\scratch\ocr\strip\41-II-script-02.png
+85 150 145 42	T@PII
+85 194 24 11	Test of Proficiency in Kor
+### D:\claude\topik\scratch\ocr\strip\41-II-script-03.png
+169 984 9 40	（ 10 （
+### D:\claude\topik\scratch\ocr\strip\41-II-script-04.png
+85 150 145 42	T@PII
+85 194 24 11	Test of Proficiency in Kor
+70 342 15 48	[ 4 、 8 ]
+69 2697 45 47	2 7 }
+### D:\claude\topik\scratch\ocr\strip\41-II-script-05.png
+69 1693 8 34	（ 的 彐 刨
+69 1774 45 47	2 彐 翊
+141 1871 43 30	彐 翊
+69 1957 8 34	（ 彐 刨
+### D:\claude\topik\scratch\ocr\strip\41-II-script-06.png
+8 115 23 20	0
+85 150 145 42	T@PII
+85 194 24 11	Test of Proficiency in Kor
+70 337 15 48	[ 9 、 12
+4 1574 23 39	0 ·
+### D:\claude\topik\scratch\ocr\strip\41-II-script-07.png
+6 382 18 39	1 ·
+4 1277 22 39	2 ·
+### D:\claude\topik\scratch\ocr\strip\41-II-script-08.png
+49 157 145 42	T@PII
+50 203 24 10	Test of ProficienCy in Kor
+38 351 16 48	[ 13 、 1 《
+80 2251 46 48	2 可 闪
+### D:\claude\topik\scratch\ocr\strip\41-II-script-09.png
+4 382 23 39	5 ·
+4 1541 23 39	6 ·
+69 2127 45 47	O 叫 只 }
+69 2215 45 47	2 叫 只 }
+### D:\claude\topik\scratch\ocr\strip\41-II-script-10.png
+85 150 145 42	T@PII
+85 194 24 11	Test of Proficiency in Kor
+70 337 15 48	[ 17 、 2 《
+4 499 23 39	7 · 叫 只 } ：
+82 1091 20 34	2 0
+4 1570 23 39	8 ·
+### D:\claude\topik\scratch\ocr\strip\41-II-script-11.png
+4 382 23 39	9 ·
+0 1545 2 11	' 0 ·
+### D:\claude\topik\scratch\ocr\strip\41-II-script-12.png
+85 150 145 42	T@PII
+85 194 24 11	Test of Proficiency in Kor
+70 342 15 48	[ 21 、 2 ：
+69 1525 45 47	2 叫 則
+69 2079 45 47	O 叫 只 }
+### D:\claude\topik\scratch\ocr\strip\41-II-script-13.png
+70 342 15 48	[ 23 、 2z
+69 2167 45 47	2 亓
+141 2259 68 39	100 汇
+### D:\claude\topik\scratch\ocr\strip\41-II-script-14.png
+85 150 145 42	T@PII
+85 194 24 11	Test of Proficiency in Kor
+70 342 15 48	[ 25 、 2 《
+69 2441 5 27	（ 4 ） 望 · 0
+### D:\claude\topik\scratch\ocr\strip\41-II-script-15.png
+70 342 15 48	[ 27 、 2{
+69 1532 8 34	（ 的
+### D:\claude\topik\scratch\ocr\strip\41-II-script-16.png
+85 150 145 42	T@PII
+85 194 24 11	Test of Proficiency in Kor
+70 342 15 48	[ 29 、 3 《
+### D:\claude\topik\scratch\ocr\strip\41-II-script-17.png
+70 342 15 48	[ 31 、 3 ：
+### D:\claude\topik\scratch\ocr\strip\41-II-script-18.png
+85 150 145 42	T@PII
+85 194 24 11	Test of Proficiency in Kor
+70 342 15 48	[ 33 、 3
+69 1789 45 47	2 显 宁
+69 2431 45 47	2 显
+### D:\claude\topik\scratch\ocr\strip\41-II-script-19.png
+70 342 15 48	[ 35 、 3 《
+### D:\claude\topik\scratch\ocr\strip\41-II-script-20.png
+85 150 145 42	T@PII
+85 194 24 11	Test of Proficiency in Kor
+70 342 15 48	[ 37 、 3 卜
+72 1500 35 48	叫 只 旧
+69 1701 45 47	2 罟
+### D:\claude\topik\scratch\ocr\strip\41-II-script-21.png
+70 342 15 48	[ 39 、 4 （
+141 2276 43 26	万 彐
+### D:\claude\topik\scratch\ocr\strip\41-II-script-22.png
+85 150 145 42	T@PII
+85 194 24 11	Test of Proficiency in Kor
+70 342 15 48	[ 41 、 4 ：
+69 2350 8 34	（ 1 ） 訁
+### D:\claude\topik\scratch\ocr\strip\41-II-script-23.png
+70 342 15 48	[ 43 、
+73 1596 21 23	0 ] 0 ] 0
+69 1789 45 47	2 剂 讲
+69 2431 45 47	2
+### D:\claude\topik\scratch\ocr\strip\41-II-script-24.png
+38 159 145 43	T@PII
+39 205 25 11	Test Of ProficienCY in or
+28 353 17 49	[ 45 、 4 （
+84 2152 36 48	叫 符 着
+87 2353 46 48	2 只 屋
+### D:\claude\topik\scratch\ocr\strip\41-II-script-25.png
+70 342 15 48	[ 47 、 尘
+### D:\claude\topik\scratch\ocr\strip\41-II-script-26.png
+85 150 145 42	T@PII
+85 194 24 11	Test of Proficiency in Kor
+70 342 15 48	[ 49 、 5 （
+69 1796 8 34	（ 2 ） 7é-e
+72 2230 35 48	叫 只 旧

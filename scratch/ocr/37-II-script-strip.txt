@@ -1,0 +1,66 @@
+### D:\claude\topik\scratch\ocr\strip\37-II-script-01.png
+### D:\claude\topik\scratch\ocr\strip\37-II-script-02.png
+30 432 25 40	2 ，
+### D:\claude\topik\scratch\ocr\strip\37-II-script-03.png
+70 419 26 41	3 ，
+### D:\claude\topik\scratch\ocr\strip\37-II-script-04.png
+121 391 15 50	[ 4 、
+30 1445 25 41	5 ，
+30 2343 25 41	6 ．
+### D:\claude\topik\scratch\ocr\strip\37-II-script-05.png
+30 432 25 40	7 ，
+30 1151 25 41	8 ，
+### D:\claude\topik\scratch\ocr\strip\37-II-script-06.png
+121 391 15 50	[ 9 、
+30 641 25 41	9 ．
+33 1714 47 41	10 ，
+### D:\claude\topik\scratch\ocr\strip\37-II-script-07.png
+33 1417 44 41	12 ，
+### D:\claude\topik\scratch\ocr\strip\37-II-script-08.png
+33 397 35 38	※ [ 13 、
+33 547 44 41	13 ． 叫 丿
+### D:\claude\topik\scratch\ocr\strip\37-II-script-09.png
+33 432 47 40	15 ，
+33 1592 47 41	16 、
+### D:\claude\topik\scratch\ocr\strip\37-II-script-10.png
+33 551 47 37	17 、 皂 0
+33 1624 19 37	1 &
+165 1627 2 3	． 凵 0
+### D:\claude\topik\scratch\ocr\strip\37-II-script-11.png
+33 432 47 40	19 ，
+### D:\claude\topik\scratch\ocr\strip\37-II-script-12.png
+121 391 15 50	[ 21 、
+27 1380 53 40	21. 甘 只
+127 2021 31 16	0 亡
+27 2024 46 38	22 、
+121 2221 47 47	0 叫
+### D:\claude\topik\scratch\ocr\strip\37-II-script-13.png
+### D:\claude\topik\scratch\ocr\strip\37-II-script-14.png
+### D:\claude\topik\scratch\ocr\strip\37-II-script-15.png
+27 1467 53 41	互 牢
+### D:\claude\topik\scratch\ocr\strip\37-II-script-16.png
+24 1555 50 44	四 、 甘 刚
+### D:\claude\topik\scratch\ocr\strip\37-II-script-17.png
+121 391 15 50	[ 31 、
+24 1467 56 41	31. 就 牢
+121 2484 109 50	@0想
+### D:\claude\topik\scratch\ocr\strip\37-II-script-18.png
+### D:\claude\topik\scratch\ocr\strip\37-II-script-19.png
+24 1933 50 41	30 、
+### D:\claude\topik\scratch\ocr\strip\37-II-script-20.png
+127 2021 31 16	0 亡
+### D:\claude\topik\scratch\ocr\strip\37-II-script-21.png
+121 391 15 50	[ 39 、
+24 2199 50 41	40 ．
+### D:\claude\topik\scratch\ocr\strip\37-II-script-22.png
+127 1555 2 6	《 0 ' 0
+### D:\claude\topik\scratch\ocr\strip\37-II-script-23.png
+121 391 15 50	[ 43 、
+24 1467 50 41	43 ． 旧 怦 ．
+### D:\claude\topik\scratch\ocr\strip\37-II-script-24.png
+24 1671 2 6	， 45 、
+### D:\claude\topik\scratch\ocr\strip\37-II-script-25.png
+28 1628 51 41	47 、 甚
+### D:\claude\topik\scratch\ocr\strip\37-II-script-26.png
+121 391 15 50	[ 49 、
+24 1646 50 40	49 、

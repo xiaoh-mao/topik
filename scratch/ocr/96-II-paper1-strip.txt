@@ -1,0 +1,117 @@
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-01.png
+93 475 54 19	TestOf
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-02.png
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-03.png
+96 2079 21 42	5 ·
+94 2489 26 41	6 ·
+95 2762 24 40	7 ·
+160 1090 64 38	Do
+160 1630 64 38	Do
+160 2170 68 38	Ma
+161 2489 47 36	旱 只
+161 2582 69 37	Kec
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-04.png
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-05.png
+28 592 39 40	※ [ 1 一 3
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-06.png
+26 2246 26 44	4 ·
+27 2780 23 44	5 ·
+136 244 94 11	TestofProficier
+121 387 12 50	[ 1
+121 2043 12 50	[ 4 硪
+120 2132 15 50	（ 2
+119 2248 46 46	0 彐
+119 2778 46 46	0 彐
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-07.png
+26 860 25 42	7 ·
+26 1326 26 41	8 ·
+121 1902 12 50	[ 9 一
+26 2109 26 43	9 ·
+31 2399 50 40	10 · 0
+31 2689 61 40	11. 0 弓
+194 2773 36 27	OI
+31 2979 50 40	12 · 0
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-08.png
+136 244 94 11	TestofProficier
+28 392 39 40	※ [ 13 、
+31 506 48 45	13 · 0
+31 1032 50 44	14 · 0 叫
+31 1566 48 44	巧 · 0 叫
+31 2095 50 42	16 · 0
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-09.png
+148 380 13 51	[ 17 、
+146 469 61 51	@ 2
+55 586 50 43	17 ． 0
+44 1116 16 40	1 & 0 因
+33 1647 50 43	19 ， 0 叫
+126 2185 14 29	1 OI
+17 2177 55 41	20 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-10.png
+136 244 94 11	TestofProficier
+121 387 12 50	[ 2
+27 506 65 39	21. 甘 邴
+27 1150 54 39	22 ·
+121 1877 12 50	[ 23 一
+27 1995 52 45	23 · 甘 祚
+119 2195 37 46	也 ） 旧 1
+27 2635 54 44	24 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-11.png
+72 379 40 40	※ [ 25 、
+67 493 53 44	25 · 甘 只 悭
+46 1135 56 43	26 ·
+23 1869 40 40	※ [ 27 、
+18 1981 55 44	27 · 甘 祚
+89 2625 49 25	二 O
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-12.png
+136 244 94 11	TestofProficier
+28 392 39 40	※ [ 29 、
+27 506 54 43	29 · 甘 祚
+119 1261 46 46	0
+28 1882 39 40	※ [ 31 一
+27 1995 65 45	31. 甘 只
+119 2106 46 47	0
+27 2639 54 45	32 · 甘 只
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-13.png
+28 392 39 40	※ [ 33 、
+27 506 52 45	33 · 早 （
+173 1179 12 13	1 一
+28 1882 39 40	※ [ 35 一
+27 1995 52 45	35 · 甘 祚
+27 2637 54 47	36 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-14.png
+136 244 94 11	TestofProficier
+121 387 11 50	[ 37 、
+27 506 53 45	37 · 叫 邴
+121 1877 12 50	[ 39 一
+27 1995 54 45	39 · 叫
+26 2635 55 45	40 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-15.png
+28 392 39 40	※ [ 41 、
+26 501 66 44	41. 叫
+26 1145 55 44	42 ·
+119 1261 46 46	0
+28 1882 39 40	※ [ 43 一
+26 1991 53 49	43 · 早 （
+26 2635 55 44	44 · 丕 号
+119 2750 46 47	0
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-16.png
+136 244 94 11	TestofProficier
+121 387 11 50	[ 45 、
+26 1145 55 45	46 · 叫
+121 1877 11 50	[ 47 一
+128 2020 32 19	己 一
+26 2635 55 44	48 · 甘
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-17.png
+28 392 39 40	※ [ 49 、
+26 501 55 48	49 ·
+27 1149 54 44	50 · 甘 祚
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-18.png
+28 592 39 40	※ [ 51 、
+33 719 65 44	51.
+33 1828 53 44	52 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-paper1-19.png
+26 391 55 41	53 · r4
+120 479 86 41	200 一
+177 603 38 34	丕 丿
+26 1638 26 40	5 生 r4g
+122 1724 42 47	啩 人

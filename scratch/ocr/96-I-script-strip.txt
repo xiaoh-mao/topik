@@ -1,0 +1,75 @@
+### D:\claude\topik\scratch\ocr\strip\96-I-script-01.png
+121 587 12 50	[ 1
+121 1298 15 52	（ 4 剂 ）
+121 1930 14 52	（ 4 ）
+27 1936 25 40	2 ·
+121 2563 15 51	（ 3 剂 ）
+27 2568 23 45	3 ·
+### D:\claude\topik\scratch\ocr\strip\96-I-script-02.png
+26 388 26 44	4 ·
+27 1912 23 44	5 ·
+26 2542 26 43	6 ·
+136 244 94 11	TestofProficier
+121 387 15 51	（ 3 剂 ）
+121 1907 15 52	（ 4 剂 ）
+121 2539 15 52	（ 3 ）
+### D:\claude\topik\scratch\ocr\strip\96-I-script-03.png
+121 387 12 50	[ 7 一 1
+121 1010 15 51	（ 3 剂 ）
+26 1016 25 42	7 ·
+121 1554 15 51	（ 3 剂 ）
+26 1559 26 40	8 ·
+121 2097 15 52	（ 3 ）
+26 2103 26 43	9 ·
+119 2468 46 46	0
+31 2647 50 40	10 · （ 4 剂 ）
+119 3011 46 47	0
+### D:\claude\topik\scratch\ocr\strip\96-I-script-04.png
+136 244 94 11	TestofProficier
+121 387 12 50	[ 1
+119 480 44 39	卫 己
+31 1099 61 39	11. （ 3 剂 ）
+31 1632 50 40	12 · （ 3 ）
+31 2165 48 45	13 · （ 4 ）
+31 2695 50 44	14 · （ 3 ）
+### D:\claude\topik\scratch\ocr\strip\96-I-script-05.png
+56 384 40 40	※ [ 15 、
+62 533 48 43	巧 ， 叫 丿
+33 1888 51 42	16 ·
+### D:\claude\topik\scratch\ocr\strip\96-I-script-06.png
+136 244 94 11	TestofProficier
+121 387 12 50	[ 17 ·
+120 475 15 51	（ 3
+36 1234 50 42	17 ·
+36 2131 50 40	18 ·
+### D:\claude\topik\scratch\ocr\strip\96-I-script-07.png
+36 434 51 43	19 ·
+33 1508 54 40	20 ·
+### D:\claude\topik\scratch\ocr\strip\96-I-script-08.png
+136 244 94 11	TestofProficier
+28 392 39 40	※ [ 17 ·
+120 475 15 51	（ 3
+32 635 50 40	21 · 叫 丿
+119 1136 46 46	0
+28 1757 39 40	※ [ 22 一
+32 1912 54 39	22 · 甘 冫
+119 2323 46 47	0
+### D:\claude\topik\scratch\ocr\strip\96-I-script-09.png
+128 407 53 47	23 ·
+186 1009 18 30	3
+55 1389 56 44	24 ·
+### D:\claude\topik\scratch\ocr\strip\96-I-script-10.png
+136 244 94 11	TestofProficier
+121 387 11 50	[ 25 、
+27 1112 52 44	25 · 叫 祚
+27 1754 54 43	26 ·
+### D:\claude\topik\scratch\ocr\strip\96-I-script-11.png
+36 409 14 51	[ 27 一
+123 1089 39 51	叫 丿
+137 1951 2 3	、 匚 O
+39 1957 56 42	28 · 巨 乊
+### D:\claude\topik\scratch\ocr\strip\96-I-script-12.png
+136 244 94 11	TestofProficier
+121 387 11 50	[ 29 、
+27 1555 54 43	29 · 甘 祚
+134 1763 17 28	2 囝

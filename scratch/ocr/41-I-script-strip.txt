@@ -1,0 +1,41 @@
+### D:\claude\topik\scratch\ocr\strip\41-I-script-01.png
+70 541 16 50	[ 1 ～ 4 ]
+111 950 44 47	0
+### D:\claude\topik\scratch\ocr\strip\41-I-script-02.png
+70 1147 16 50	[ 5 、
+### D:\claude\topik\scratch\ocr\strip\41-I-script-03.png
+70 341 18 50	[ 7 ～ 10
+158 2875 28 29	只 卜 ：
+### D:\claude\topik\scratch\ocr\strip\41-I-script-04.png
+70 341 16 50	[ 11 ～ 1 ， ．
+111 647 25 31	7 卜 “
+67 1416 47 50	(D 。 惜
+114 1713 35 47	叫 只 卜 ：
+### D:\claude\topik\scratch\ocr\strip\41-I-script-05.png
+70 341 16 50	[ 15 ～ 1 《
+70 706 44 47	fD
+70 1235 44 46	0
+2 1853 25 41	6 ，
+### D:\claude\topik\scratch\ocr\strip\41-I-script-06.png
+42 156 147 47	T@PII
+33 351 18 51	[ 17 、 2
+128 445 28 41	3
+62 1516 47 47	tD 叫
+66 1603 45 48	2 叫 只 }
+### D:\claude\topik\scratch\ocr\strip\41-I-script-07.png
+2 381 25 41	9 ，
+### D:\claude\topik\scratch\ocr\strip\41-I-script-08.png
+70 1406 16 50	[ 22 ～ 之
+### D:\claude\topik\scratch\ocr\strip\41-I-script-09.png
+70 1056 82 47	00 ' 、 1
+70 2391 44 47	0 瞓 蚓
+### D:\claude\topik\scratch\ocr\strip\41-I-script-10.png
+70 341 16 50	[ 药 ～ 之
+114 494 35 50	叫 只 卜 ：
+70 1260 44 50	0 韩 母
+70 2078 32 47	0 〕 47 过
+### D:\claude\topik\scratch\ocr\strip\41-I-script-11.png
+70 341 16 50	[ 27 ～ 之
+### D:\claude\topik\scratch\ocr\strip\41-I-script-12.png
+114 494 35 50	叫 只 卜 ：
+114 847 35 50	叫 只 卜 ：

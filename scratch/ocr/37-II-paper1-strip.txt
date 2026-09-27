@@ -1,0 +1,75 @@
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-01.png
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-02.png
+93 1226 22 38	2 ， 牵 总
+93 1502 22 37	3 ，
+93 1777 22 34	4 ，
+149 1868 81 37	Use
+93 2052 22 38	5 ， 剂 曙
+149 2143 81 38	Mar
+93 2518 22 38	6 ， 是
+93 2794 22 37	7 ，
+149 2884 81 35	Whi
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-03.png
+24 1962 27 40	2 ．
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-04.png
+24 400 27 41	3 ．
+24 1990 27 37	4 ．
+24 2490 27 41	5 ．
+24 2991 25 41	6 `
+121 394 47 50	0
+121 1874 15 50	[ 4
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-05.png
+48 735 26 40	8 ·
+134 1181 16 51	[ 9 ～
+32 1385 26 41	9 ·
+22 1917 47 42	10 、
+1 2798 45 42	12 ， 0
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-06.png
+136 200 35 41	T 。
+121 391 15 50	[ 13 、
+27 510 44 41	13 ` 0 叫
+27 1571 47 40	15 ` 0
+27 2099 47 41	16 ` 。 〕
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-07.png
+0 415 11 38	《 [ 17 、
+0 1056 51 41	区 0 71
+20 1589 20 40	1 就 0 。
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-08.png
+24 510 44 41	21 `
+27 1151 44 41	22 `
+24 2647 47 40	24 ．
+121 391 15 50	[ 21 、
+127 1151 2 3	． 0 ， 0
+127 2647 2 3	． 0 ， 0
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-09.png
+158 1148 11 7	、 0
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-10.png
+127 1151 2 3	． 0 ， 0
+121 1886 15 51	[ 31 、
+24 2647 47 40	32 `
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-11.png
+77 493 49 42	田 早 刎 （
+12 1983 59 43	五 甘 刚
+140 2631 23 19	0
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-12.png
+102 2676 50 42	40 ．
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-13.png
+77 493 44 42	41 `
+175 513 13 7	、 0
+49 1133 49 41	42 ` 甘 身 下
+113 1871 18 52	[ 还 3 `
+12 1984 48 42	43 ` 叫
+84 2635 23 25	0
+156 2638 23 25	0
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-14.png
+75 494 50 42	45 、 号 。
+48 1134 50 42	46 ` 甘
+13 1984 24 39	4 的
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-15.png
+121 391 15 50	[ 49 、
+24 510 50 41	49 ，
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-16.png
+121 588 15 50	[ 51 、
+30 842 44 40	51 ．
+30 1974 47 41	52 ．
+### D:\claude\topik\scratch\ocr\strip\37-II-paper1-17.png

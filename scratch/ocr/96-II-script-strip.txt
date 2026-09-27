@@ -1,0 +1,122 @@
+### D:\claude\topik\scratch\ocr\strip\96-II-script-01.png
+28 592 39 40	※ [ 1 一 3
+37 747 32 40	1. 叫 丿
+### D:\claude\topik\scratch\ocr\strip\96-II-script-02.png
+### D:\claude\topik\scratch\ocr\strip\96-II-script-03.png
+28 392 39 40	※ [ 1 一 3
+### D:\claude\topik\scratch\ocr\strip\96-II-script-04.png
+32 631 26 44	4 ·
+33 1532 23 44	5 ·
+32 2428 26 43	6 ·
+136 244 94 11	TestofProficier
+121 387 12 50	[ 4 硪
+120 476 15 50	（ 2
+119 959 46 46	0 彐
+164 1528 38 50	叫 丿
+119 1856 46 47	0 彐
+### D:\claude\topik\scratch\ocr\strip\96-II-script-05.png
+32 434 25 42	7 ·
+32 1331 25 40	8 ·
+164 429 38 50	叫 丿
+164 1326 38 50	叫 丿
+### D:\claude\topik\scratch\ocr\strip\96-II-script-06.png
+136 244 94 11	TestofProficier
+121 387 12 50	[ 9 一
+164 630 38 51	叫 丿
+32 636 26 42	9 ·
+36 1445 51 40	10 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-script-07.png
+36 434 62 39	11.
+36 1243 50 39	12 ·
+164 1238 38 50	叫 丿
+### D:\claude\topik\scratch\ocr\strip\96-II-script-08.png
+209 368 15 51	[ 13 、
+115 523 49 46	13 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-script-09.png
+36 433 49 44	15 ·
+36 1505 51 43	16 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-script-10.png
+36 635 50 43	17 ·
+36 1533 50 40	18 ·
+136 244 94 11	TestofProficier
+121 387 12 50	[ 17 ·
+120 476 15 50	（ 2
+119 959 46 46	0
+### D:\claude\topik\scratch\ocr\strip\96-II-script-11.png
+36 434 51 43	19 ·
+33 1419 54 41	20 ·
+164 429 38 50	叫 丿
+164 1414 38 50	叫 丿
+### D:\claude\topik\scratch\ocr\strip\96-II-script-12.png
+40 265 39 13	TestOf
+87 561 40 50	叫 丿
+110 914 40 50	叫 丿
+4 1403 51 43	21 · 邴
+46 2046 55 43	22 ，
+143 2040 2 3	． 匚 O
+### D:\claude\topik\scratch\ocr\strip\96-II-script-13.png
+121 387 11 50	[ 23 、
+27 1201 52 45	23 · 甘 祚
+27 1841 54 44	24 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-script-14.png
+136 244 94 11	TestofProficier
+121 387 11 50	[ 25 、
+27 1378 52 43	25 · 甘
+27 2020 54 42	26 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-script-15.png
+29 412 14 51	[ 27 一
+95 738 40 51	叫 丿
+113 1003 40 50	叫 丿
+3 1405 53 43	27 ．
+144 2041 2 3	' 匚 O
+47 2047 55 43	28 ，
+### D:\claude\topik\scratch\ocr\strip\96-II-script-16.png
+136 244 94 11	TestofProficier
+121 387 11 50	[ 29 、
+27 1378 54 43	29 · 甘 祚
+### D:\claude\topik\scratch\ocr\strip\96-II-script-17.png
+98 373 41 40	※ [ 31 、
+208 883 39 51	叫 丿
+45 1357 66 45	31. 导 只
+11 2000 55 45	32 ， 甘 只 羥
+### D:\claude\topik\scratch\ocr\strip\96-II-script-18.png
+136 244 94 11	TestofProficier
+121 387 11 50	[ 33 、
+27 1378 52 45	33 · 早 （
+### D:\claude\topik\scratch\ocr\strip\96-II-script-19.png
+121 387 11 50	[ 35 、
+27 1378 52 45	35 · 甘 祚
+### D:\claude\topik\scratch\ocr\strip\96-II-script-20.png
+136 244 94 11	TestofProficier
+121 387 12 50	[ 37 、
+27 1467 53 45	37 · 叫 邴
+### D:\claude\topik\scratch\ocr\strip\96-II-script-21.png
+121 387 11 50	[ 39 、
+27 1378 54 45	39 · 叫
+26 2018 55 45	40 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-script-22.png
+136 244 94 11	TestofProficier
+121 387 12 50	[ 41 ～
+26 1374 66 44	41. 叫
+26 2018 55 44	42 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-script-23.png
+121 387 12 50	[ 43 、
+26 1462 53 50	43 · 早 （
+26 2106 55 44	44 ·
+122 2109 25 24	丿 丶 ． 彐 」
+### D:\claude\topik\scratch\ocr\strip\96-II-script-24.png
+136 244 94 11	TestofProficier
+121 387 12 50	[ 45 、
+26 2106 55 45	46 · 叫
+### D:\claude\topik\scratch\ocr\strip\96-II-script-25.png
+148 380 13 51	[ 47 、
+189 537 39 50	叫 丿
+124 1477 2 2	． O
+122 1571 47 47	0
+118 1748 47 47	0
+18 2097 55 46	48 ， 甘 只
+### D:\claude\topik\scratch\ocr\strip\96-II-script-26.png
+136 244 94 11	TestofProficier
+121 387 12 50	[ 49 、
+26 1551 55 47	49 ·
+27 2198 54 44	50 · 甘 祚

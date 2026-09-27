@@ -1,0 +1,67 @@
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-01.png
+106 466 54 19	TestOf
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-02.png
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-03.png
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-04.png
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-05.png
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-06.png
+188 343 7 10	T 凸 t00
+174 481 14 46	[ 5 一
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-07.png
+91 1797 43 37	10 ．
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-08.png
+188 343 7 10	T 凸 t00
+91 519 50 37	11.
+91 1438 42 37	12 ·
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-09.png
+91 2139 43 37	15 ·
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-10.png
+188 343 7 10	T 凸 t00
+91 714 42 37	16 ，
+91 1468 42 38	17 ·
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-11.png
+86 1156 42 37	19 ， （
+85 1509 43 38	20 ·
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-12.png
+188 343 7 10	T 凸 t00
+174 481 14 46	[ 2 〕
+85 1238 51 37	21. （
+85 1839 42 36	22 ·
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-13.png
+85 1568 42 37	23 · 望 一
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-14.png
+188 343 7 10	T 凸 t00
+90 1300 43 38	26 ·
+90 1972 43 37	27 ·
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-15.png
+91 487 33 33	※ [ 2 卜
+90 714 44 37	28 ，
+90 1715 43 38	29 ．
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-16.png
+188 343 7 10	T 凸 t00
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-17.png
+89 628 44 37	32 ·
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-18.png
+188 343 7 10	T 凸 t00
+88 1566 14 45	[ 35 、 3
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-19.png
+89 1603 45 38	37 ．
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-20.png
+188 343 7 10	T 凸 t00
+174 1649 14 45	[ 3 〔
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-21.png
+89 519 44 37	40 ，
+89 1666 42 37	41 ·
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-22.png
+116 270 22 18	0
+188 343 7 10	T 凸 t00
+91 487 33 33	※ [ 42
+84 1898 43 37	42 ·
+84 2334 43 37	43 ·
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-23.png
+91 487 33 33	※ 陲
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-24.png
+188 343 7 10	T 凸 t00
+### D:\claude\topik\scratch\ocr\strip\64-II-paper2-25.png
+84 2232 44 38	49 · （
+84 2595 44 37	50 回 一

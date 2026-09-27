@@ -1,0 +1,127 @@
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-01.png
+829 456 18 26	（ c 0
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-02.png
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-03.png
+97 1540 21 36	3 ·
+96 1810 23 36	4 ·
+97 2081 21 35	5 ·
+96 2762 22 35	7 ·
+160 1090 57 37	Do
+164 1541 26 19	匚 真 C
+160 1630 57 37	Do
+160 1811 26 19	匚 真 0
+161 1900 69 37	Usc
+161 2170 67 37	Ma
+161 2581 69 37	Kec
+160 2851 70 37	Wh
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-04.png
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-05.png
+29 1084 22 37	2 ·
+29 1753 22 37	3 ·
+28 2219 24 38	4 ·
+119 1635 12 47	[ 3 、
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-06.png
+136 244 25 11	Test 0 《 Proficien
+119 387 12 47	[ 5
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-07.png
+118 387 12 47	[ 9 、
+121 1283 9 35	（ 1 ） 亻
+121 1459 9 35	（ 3 ） 亽
+121 2666 9 35	（ 1 ） 曰
+121 2754 9 35	（ 2 ） 曰
+121 2843 9 35	（ 3 ） 曰
+121 2932 8 33	（ 4 ） 曰
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-08.png
+136 244 25 11	Test 0 《 Proficien
+118 387 12 47	[ 9 、
+36 1620 50 38	12 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-09.png
+72 380 35 35	※ [ 13 一
+76 533 50 40	13 · （ 刁
+49 1342 51 39	14 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-10.png
+136 244 25 11	Test 0 《 Proficien
+118 387 12 47	[ 16 、
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-11.png
+118 387 12 47	[ 19 一
+30 1112 50 38	19 · （
+29 1492 52 37	20 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-12.png
+136 244 25 11	Test 0 《 Proficien
+118 387 12 47	[ 21 一
+29 1200 65 39	21. （
+29 1845 51 37	22 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-13.png
+118 387 12 47	[ 2 3 一
+29 1644 51 37	23 · 舌
+121 1840 48 47	2 亻
+29 2286 52 38	24 ·
+121 2490 9 35	（ 2 ）
+121 2579 9 35	（ 3 ）
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-14.png
+136 244 25 11	Test 0 《 Proficien
+28 393 34 34	※ [ 2 5 一
+35 547 51 37	25 ·
+35 1268 51 37	26 · 丿 ]
+35 1988 51 37	27 · 闪 冫
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-15.png
+118 387 12 47	[ 2 8 一
+35 1621 51 37	29 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-16.png
+136 244 25 11	Test 0 《 Proficien
+28 393 34 34	※ [ 28 、
+35 547 52 37	30 ·
+165 1881 65 48	7Åc
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-17.png
+28 393 34 34	※ [ 3 2 一
+35 547 51 37	32 ·
+121 2390 9 35	（ 2 ）
+121 2479 9 35	（ 3 ）
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-18.png
+136 244 25 11	Test 0 《 Proficien
+28 393 34 34	※ [ 3 2 一
+35 546 52 38	34 ·
+28 1670 34 34	※ [ 35 、
+35 1823 51 37	35 ·
+121 2409 48 47	2 回
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-19.png
+35 433 51 38	36 ·
+35 1508 51 37	37 ·
+121 2188 9 35	（ 2 ） 圣
+121 2277 9 35	（ 3 ） 圣
+121 2366 8 33	（ 4 ） 圣
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-20.png
+136 244 25 11	Test 0 《 Proficien
+28 393 34 34	※ [ 3 5 一
+35 546 51 38	38 ·
+35 1912 51 37	39 ·
+166 1001 2 1	． 丿 、 1
+119 1752 12 47	[ 39 、
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-21.png
+34 433 53 38	40 ·
+34 1520 66 39	41.
+163 1520 28 22	只 丿
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-22.png
+136 244 25 11	Test 0 《 Proficien
+118 387 12 47	[ 42 一
+28 1996 52 38	42 · 舌
+28 2463 52 38	43 ·
+121 2579 9 35	（ 1 ） 0
+121 2667 9 35	（ 2 ） 以
+121 2756 9 35	（ 3 ） 0
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-23.png
+118 387 12 47	[ 44 一
+28 1554 53 38	44 · （
+28 2198 52 38	45 ·
+121 2490 9 35	（ 3 ）
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-24.png
+136 244 25 11	Test 0 《 Proficien
+118 387 12 47	[ 46 一
+165 1343 27 19	口 ] 冫
+28 1643 52 38	46 · 〈
+28 2286 52 38	47 ·
+### D:\claude\topik\scratch\ocr\strip\96-II-paper2-25.png
+118 387 12 47	[ 48 一
+28 1809 52 38	48 · 、
+28 2339 52 38	49 · （
+29 2692 52 37	50 ·
