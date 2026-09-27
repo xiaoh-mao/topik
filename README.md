@@ -1,9 +1,9 @@
-# TOPIK 做题
+# TOPIK 模考
 
 桌面刷题工具，题目来自 TOPIK 官网「학습 자료실」公开的기출문제：
 第 37、41、47、52、60、64、83、91、96、102 回，每回 TOPIK I / II 各一套，共 20 套。
 卷子是原版页面，听力是原版录音，正确答案和配分来自官方正答表。
-姊妹项目：[JLPT 做题](https://github.com/xiaoh-mao/jlpt)（界面和用法一样）。
+姊妹项目：[JLPT 模考](https://github.com/xiaoh-mao/jlpt)（界面和用法一样）。
 
 ## 下载
 
@@ -20,7 +20,7 @@
 
 ## 怎么用
 
-1. 双击 **`TOPIK做题.bat`**，会弹出一个独立窗口（Edge 应用模式）。
+1. 双击 **`TOPIK模考.bat`**，会弹出一个独立窗口（Edge 应用模式）。
    想要带图标的桌面快捷方式，就在这个文件夹里运行
    `powershell -ExecutionPolicy Bypass -File scratch\make-ico.ps1 -Shortcut`。
 2. 在首页右上角选 TOPIK I / II，选一回，点「整套模考」，
@@ -79,8 +79,8 @@
 
 | 路径 | 内容 |
 |---|---|
-| `TOPIK做题.bat` | 启动入口 |
-| `app/` | 界面（纯前端，零依赖）；`core.*` 和 JLPT 做题共用，`exam.*` 是 TOPIK 自己的 |
+| `TOPIK模考.bat` | 启动入口 |
+| `app/` | 界面（纯前端，零依赖）；`core.*` 和 JLPT 模考共用，`exam.*` 是 TOPIK 自己的 |
 | `lib/` | 本地小服务（PowerShell）和启动脚本；`exam.ps1` 是 TOPIK 自己的 |
 | `papers/` | 官方卷的页面图和录音，每回一个文件夹，里面分 `I` / `II`。原版 PDF 做题用不上，不在仓库里 |
 | `data/` | 做题记录和没交卷的进度（第一次运行时自动建） |

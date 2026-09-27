@@ -1,5 +1,5 @@
 'use strict';
-/* TOPIK 做题 —— 考试适配（界面和做法全在 core.js，两个 app 共用）。这里只有 TOPIK 自己的：
+/* TOPIK 模考 —— 考试适配（界面和做法全在 core.js，两个 app 共用）。这里只有 TOPIK 自己的：
    卷子是官方 PDF 渲染成的页面图（papers/<回>/<级>/img/），每题的位置在 data/tests.js（scratch/pages.py 用 OCR 找的，
    找不准的标了 approx）；答案和配分在 data/keys.js；考试结构/时限/等级线/大题/쓰기在 data/levels.js；
    듣기 대본的中文译文在 data/trans.js。录音按题拆好（00 开场 + 每题一段）；37 回只有整段录音，每题从第几秒开始在 tests.js 的 cue。
@@ -86,7 +86,7 @@ function score(test, set, answers, wself) {
 }
 
 Object.assign(EXAM, {
-  name: 'TOPIK 做题', lang: 'ko', levels: LV, defaultLevel: 'I',
+  name: 'TOPIK 模考', lang: 'ko', levels: LV, defaultLevel: 'I',
   docNames: window.TOPIK_DOC_NAMES,
   typesInTl: false,           // 题型名是自己写的中文
   brand: '<span class="tl" lang="ko">한국어능력시험</span><span>· 官网公开的最近 10 回真题</span>',
