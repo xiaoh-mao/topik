@@ -117,7 +117,7 @@ function saveActive(now = false) {
 // 关窗：把没交卷的那一场最后存一次，顺便告诉服务端可以退了（8 秒内没新请求才真退，刷新不受影响）。
 // 这里每个请求都要带 ?closing=1：不带的会被服务端当成「页面还在」，清掉退出标记，服务就得空等 30 分钟才退
 window.addEventListener('pagehide', () => {
-  if (SV && !SV.review) syncAudioState();
+  if (SV && !SV.review) { syncAudioState(); syncViewState(); }
   if (recTimer) navigator.sendBeacon('/api/records?closing=1', JSON.stringify(REC));   // 还没来得及写的（beacon 上限 64 KB，平时早就存过了）
   navigator.sendBeacon('/api/active?closing=1', ACTIVE ? JSON.stringify(ACTIVE) : 'null');
 });
@@ -393,8 +393,17 @@ function openSession(S, review = null) {
   paintGroups();
   paintCount();
   if (hasL) mountAudio();
-  showTab(docs[0]);
-  setCur(SV.keys.find(k => !answered(k)) || SV.keys[0], false);
+  // 接着上次退出时的样子（S.view，换到下一部分就不算了）：选中哪题、看哪份卷子、答题卡滚到哪；卷子滚到哪在 showTab 建阅读器时摆回去
+  const v = !SV.review && S.view?.bi === S.bi && SV.keys.includes(S.view.cur) ? S.view : null;
+  if (v) {
+    SV.at = v.at || {};
+    setCur(v.cur, false, false);                 // 先选中（会翻到那题的卷子），再翻回当时看的那份
+    showTab(SV.tabs.some(tb => tb.id === v.tab && !tb.hidden) ? v.tab : SV.tab || docs[0]);
+    $('#sheet-scroll').scrollTop = v.sheet || 0;
+  } else {
+    showTab(docs[0]);
+    setCur(SV.keys.find(k => !answered(k)) || SV.keys[0], false);
+  }
   if (!SV.review) {
     paintTimer();
     SV.tick = setInterval(tick, 250);
@@ -404,6 +413,7 @@ function openSession(S, review = null) {
 function unmountSession() {
   if (!SV) return;
   clearInterval(SV.tick);
+  syncViewState();
   if (SV.audio) { syncAudioState(); SV.audio.pause(); SV.audio.removeAttribute('src'); SV.audio.load(); }
   if (!SV.review && ACTIVE === SV.S) saveActive(true);
   SV = null;
@@ -574,7 +584,16 @@ function tick() {
     if (S.remain <= 0) { S.remain = 0; paintTimer(); submitBooklet(true); return; }
   }
   paintTimer();
-  if (now - SV.lastSave > 10000) { SV.lastSave = now; syncAudioState(); saveActive(); }
+  if (now - SV.lastSave > 10000) { SV.lastSave = now; syncAudioState(); syncViewState(); saveActive(); }
+}
+
+// 界面现在的样子记进这一场（S.view），关了程序再打开也照原样摆回去。bi 按界面上这份记：交卷进下一部分时 S.bi 已经加过了
+function syncViewState() {
+  const box = $('#sheet-scroll');
+  if (!SV || SV.review || !box) return;
+  const at = { ...SV.at };                       // 这次没打开过的卷子，沿用上次记的
+  for (const [id, el] of Object.entries(SV.frames)) if (el.classList.contains('viewer')) at[id] = viewerAt(el);
+  SV.S.view = { bi: SV.S.booklets.indexOf(SV.bk), tab: SV.tab, cur: SV.cur, sheet: Math.round(box.scrollTop), at };
 }
 
 // ---- 卷子 ----
@@ -599,6 +618,8 @@ function showTab(id) {
     }
     $('#frames').appendChild(el);
     SV.frames[id] = el;
+    const at = SV.at?.[id];                      // 上次退出时滚到的地方
+    if (at && el.classList.contains('viewer')) viewerTo(el, at);
     // 只做主观题时，正答表一打开就翻到模范答案
     const p = id === 'answer' && SV.test.answerPos?.[SV.parts[0]];
     if (p) scrollToPos(p, { force: true, mark: false });
@@ -651,6 +672,21 @@ function transHTML(t) {
 }
 // 选项排几列：照卷面，短的一行四个，中等两个，长句一行一个
 const optCols = opts => { const m = Math.max(...opts.map(o => o.length)); return m <= 6 ? 4 : m <= 14 ? 2 : 1; };
+
+// 阅读器滚到哪：[顶上那片（页面图 / 译文卡）是第几片, 滚进去几成]。按片记，换了窗口大小、缩放、译文开关也对得上
+function viewerAt(v) {
+  const kids = v.querySelector('.pages').children, top = v.scrollTop;
+  for (let i = 0; i < kids.length; i++) {
+    const el = kids[i], h = el.offsetHeight;      // 收起的译文卡高 0，跳过
+    if (h && el.offsetTop + h > top) return [i, Math.round((top - el.offsetTop) / h * 1e4) / 1e4];
+  }
+  return [0, 0];
+}
+function viewerTo(v, [i, f]) {
+  let el = v.querySelector('.pages').children[i];
+  while (el && !el.offsetHeight) { el = el.nextElementSibling; f = 0; }   // 记的是译文卡、现在译文关了：落到它下面那片
+  if (el) v.scrollTop = el.offsetTop + f * el.offsetHeight;
+}
 
 // 原图第 page 页 y 像素落在哪一片 .pg 上
 function pgAt(v, page, y) {
